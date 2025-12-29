@@ -1,0 +1,71 @@
+{
+    "expo": {
+        "name": "Wanslu Shop",
+        "slug": "wanslu",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/images/icon.png",
+        "scheme": "wanslu",
+        "devClient": false,
+        "plugins": [
+            "expo-router", [
+                "expo-splash-screen",
+                {
+                    "image": "./assets/images/splash-icon.png",
+                    "imageWidth": 200,
+                    "resizeMode": "contain",
+                    "backgroundColor": "#ffffff"
+                }
+            ]
+        ],
+        "userInterfaceStyle": "automatic",
+        "newArchEnabled": true,
+        "ios": {
+            "supportsTablet": true,
+            "bundleIdentifier": "com.k3studio.wanslu",
+            "infoPlist": {
+                "ITSAppUsesNonExemptEncryption": false
+            },
+            "runtimeVersion": "1.0.30"
+        },
+        "android": {
+            "googleServicesFile": "./google-services.json",
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/images/adaptive-icon.png",
+                "backgroundColor": "#ffffff"
+            },
+            "edgeToEdgeEnabled": true,
+            "package": "com.k3studio.wanslushop3",
+            "intentFilters": [{
+                "action": "VIEW",
+                "autoVerify": true,
+                "data": [{
+                    "scheme": "wanslu"
+                }],
+                "category": [
+                    "BROWSABLE",
+                    "DEFAULT"
+                ]
+            }],
+            "runtimeVersion": "1.1.0"
+        },
+        "web": {
+            "bundler": "metro",
+            "output": "static",
+            "favicon": "./assets/images/favicon.png"
+        },
+        "experiments": {
+            "typedRoutes": true
+        },
+        "extra": {
+            "router": {},
+            "eas": {
+                "projectId": "adab55fc-f7d5-4393-a60d-8f2ed9f2653b"
+            }
+        },
+        "owner": "chiragpipal",
+        "updates": {
+            "url": "https://u.expo.dev/adab55fc-f7d5-4393-a60d-8f2ed9f2653b"
+        }
+    }
+}

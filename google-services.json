@@ -1,0 +1,184 @@
+{
+  "project_info": {
+    "project_number": "869344966156",
+    "project_id": "pushnotifications-32f6a",
+    "storage_bucket": "pushnotifications-32f6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869344966156:android:8cc6c8fcef091c0566a029",
+        "android_client_info": {
+          "package_name": "com.k3studio.autobpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869344966156-rakdpirkrsr180hk4345dhgv6q8autkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_A7fIB6SKF5k_C5vt7bixHlHPjD-3bMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869344966156-rakdpirkrsr180hk4345dhgv6q8autkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869344966156:android:936a2d8d6957f7a066a029",
+        "android_client_info": {
+          "package_name": "com.k3studio.bounty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869344966156-rakdpirkrsr180hk4345dhgv6q8autkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_A7fIB6SKF5k_C5vt7bixHlHPjD-3bMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869344966156-rakdpirkrsr180hk4345dhgv6q8autkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869344966156:android:a0dc7359216f739666a029",
+        "android_client_info": {
+          "package_name": "com.k3studio.wanslu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869344966156-rakdpirkrsr180hk4345dhgv6q8autkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_A7fIB6SKF5k_C5vt7bixHlHPjD-3bMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869344966156-rakdpirkrsr180hk4345dhgv6q8autkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869344966156:android:bace000d436cafb866a029",
+        "android_client_info": {
+          "package_name": "com.k3studio.wanslushop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869344966156-rakdpirkrsr180hk4345dhgv6q8autkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_A7fIB6SKF5k_C5vt7bixHlHPjD-3bMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869344966156-rakdpirkrsr180hk4345dhgv6q8autkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869344966156:android:47bbeb4f409b688f66a029",
+        "android_client_info": {
+          "package_name": "com.k3studio.wanslushop2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869344966156-rakdpirkrsr180hk4345dhgv6q8autkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_A7fIB6SKF5k_C5vt7bixHlHPjD-3bMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869344966156-rakdpirkrsr180hk4345dhgv6q8autkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869344966156:android:af67f9b967e1106666a029",
+        "android_client_info": {
+          "package_name": "com.k3studio.wanslushop3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869344966156-rakdpirkrsr180hk4345dhgv6q8autkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_A7fIB6SKF5k_C5vt7bixHlHPjD-3bMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869344966156-rakdpirkrsr180hk4345dhgv6q8autkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
