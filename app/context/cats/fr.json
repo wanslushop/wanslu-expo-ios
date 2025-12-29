@@ -1,0 +1,668 @@
+{
+    "Maison et Cuisine": {
+        "icon": "home-heart",
+        "Appareils de cuisine": [
+            "Blenders",
+            "Grille-pains",
+            "Cafetières",
+            "Micro-ondes",
+            "Lave-vaisselle"
+        ],
+        "Batterie de cuisine et Moules": [
+            "Casseroles",
+            "Poêles",
+            "Plaques de cuisson",
+            "Bols à mélanger",
+            "Tasses à mesurer"
+        ],
+        "Arts de la table": [
+            "Assiettes",
+            "Bols",
+            "Verres",
+            "Couverts",
+            "Plat de service"
+        ],
+        "Rangement et Organisation": [
+            "Contenants alimentaires",
+            "Organisateurs de garde-manger",
+            "Étagères à épices",
+            "Séparateurs de tiroirs"
+        ],
+        "Petits outils de cuisine": [
+            "Couteaux",
+            "Éplucheurs",
+            "Râpes",
+            "Ouvre-boîtes",
+            "Planches à découper"
+        ],
+        "Nettoyage domestique": [
+            "Aspirateurs",
+            "Serpillières",
+            "Sprays nettoyants",
+            "Liquide vaisselle",
+            "Éponges et brosses"
+        ]
+    },
+    "Maison et Meubles": {
+        "icon": "sofa",
+        "Meubles de salon": [
+            "Tables basses",
+            "Meubles TV",
+            "Fauteuils inclinables",
+            "Bibliothèques",
+            "Canapés"
+        ],
+        "Meubles de chambre": [
+            "Lits",
+            "Tables de nuit",
+            "Commodes",
+            "Armoires",
+            "Matelas"
+        ],
+        "Mobilier de bureau": [
+            "Bureaux",
+            "Chaises de bureau",
+            "Classeurs",
+            "Bibliothèque",
+            "Lampes de bureau"
+        ],
+        "Meubles d’extérieur": [
+            "Ensembles de patio",
+            "Chaises longues",
+            "Tables d’extérieur",
+            "Parasols",
+            "Hamac"
+        ],
+        "Solutions de rangement": [
+            "Placards",
+            "Meubles à chaussures",
+            "Bacs de rangement",
+            "Étagères",
+            "Crochets"
+        ]
+    },
+    "Décoration intérieure": {
+        "icon": "flower",
+        "Cadeaux et Artisanat": [
+            "Feux d’artifice",
+            "Autocollants décoratifs",
+            "Porte-clés en caoutchouc",
+            "Cadeaux originaux",
+            "Articles en résine",
+            "Autres porte-clés",
+            "Porte-clés en métal",
+            "Coffrets cadeaux",
+            "Artisanat en métal",
+            "Artisanat en cristal",
+            "Drapeaux",
+            "Artisanat en bois",
+            "Cadeaux promotionnels",
+            "Articles en papier"
+        ],
+        "Maison et Jardin": [
+            "Parapluies",
+            "Imperméables",
+            "Peintures nature morte",
+            "Briquets",
+            "Autres peintures",
+            "Services de vaisselle",
+            "Produits maison intelligents",
+            "Serviettes de voiture",
+            "Boîtes repas",
+            "Bouteilles d’eau",
+            "Tasses",
+            "Batteries de cuisine",
+            "Bacs de rangement",
+            "Thermos",
+            "Articles de fête",
+            "Récipients alimentaires"
+        ],
+        "Construction et Immobilier": [
+            "Rouleaux de papier peint",
+            "Contreplaqué",
+            "Panneaux muraux",
+            "Autres maisons préfabriquées",
+            "Tuiles de toit",
+            "Maisons conteneurs",
+            "Autres panneaux",
+            "Robinetterie bain/douche",
+            "Papier peint adhésif",
+            "Toilettes intelligentes",
+            "Sol en plastique",
+            "Autres portes",
+            "Autres papiers peints/panneaux",
+            "Carreaux",
+            "Éviers de cuisine",
+            "Placards de cuisine"
+        ],
+        "Lumières et Éclairage": [
+            "Veilleuses",
+            "Guirlandes LED",
+            "Modules LED",
+            "Ventilateurs plafonniers LED",
+            "Lumières solaires de jardin",
+            "Lampes murales",
+            "Lustres et suspensions",
+            "Variateurs",
+            "Lumières néon",
+            "Bandes LED intelligentes",
+            "Éclairage de scène",
+            "Lampadaires solaires",
+            "Éclairage domestique intelligent",
+            "Lampes torches",
+            "Lampes de table",
+            "Ampoules LED"
+        ]
+    },
+    "Électronique": {
+        "icon": "computer",
+        "Ordinateurs et Accessoires": [
+            "Ordinateurs portables",
+            "Ordinateurs de bureau",
+            "Moniteurs",
+            "Claviers",
+            "Souris"
+        ],
+        "Appareils mobiles": [
+            "Smartphones",
+            "Chargeurs",
+            "Coques de téléphone",
+            "Tablettes",
+            "Montres intelligentes"
+        ],
+        "Divertissement à domicile": [
+            "Télévisions",
+            "Barres de son",
+            "Systèmes home cinéma",
+            "Appareils de streaming",
+            "Lecteurs Blu-ray"
+        ],
+        "Caméras et Photographie": [
+            "Caméscopes",
+            "Trépieds",
+            "Objectifs",
+            "Cartes mémoire",
+            "Appareils photo numériques"
+        ],
+        "Jeux vidéo": [
+            "Consoles de jeu",
+            "Ordinateurs portables gaming",
+            "Manettes",
+            "Casques VR",
+            "Chaises gaming"
+        ]
+    },
+    "Vêtements et Accessoires": {
+        "icon": "shirt",
+        "Vêtements hommes": [
+            "Chemises",
+            "Pantalons",
+            "Vestes",
+            "Costumes",
+            "T-shirts"
+        ],
+        "Vêtements femmes": [
+            "Robes",
+            "Jupes",
+            "Blouses",
+            "Jeans",
+            "Vêtements de sport"
+        ],
+        "Vêtements enfants": [
+            "Bodies",
+            "T-shirts",
+            "Pantalons",
+            "Robes",
+            "Uniformes scolaires"
+        ],
+        "Chaussures": [
+            "Baskets",
+            "Bottes",
+            "Sandales",
+            "Chaussures formelles",
+            "Chaussons"
+        ],
+        "Accessoires": [
+            "Montres",
+            "Ceintures",
+            "Chapeaux",
+            "Écharpes",
+            "Sacs"
+        ]
+    },
+    "Santé et Beauté": {
+        "icon": "empathize",
+        "Soins de la peau": [
+            "Nettoyants",
+            "Hydratants",
+            "Sérums",
+            "Écrans solaires",
+            "Masques pour le visage"
+        ],
+        "Soins capillaires": [
+            "Shampoings",
+            "Après-shampoings",
+            "Traitements capillaires",
+            "Outils de coiffure",
+            "Accessoires capillaires"
+        ],
+        "Maquillage": [
+            "Fond de teint",
+            "Rouge à lèvres",
+            "Ombres à paupières",
+            "Mascara",
+            "Pinceaux de maquillage"
+        ],
+        "Santé et Bien-être": [
+            "Vitamines",
+            "Compléments",
+            "Suivi de fitness",
+            "Balances personnelles",
+            "Tapis de yoga"
+        ],
+        "Soins personnels": [
+            "Brosses à dents",
+            "Rasoirs électriques",
+            "Déodorants",
+            "Savons",
+            "Huiles de bain"
+        ]
+    },
+    "Sport et Plein air": {
+        "icon": "basketball",
+        "Équipement de fitness": [
+            "Tapis de course",
+            "Haltères",
+            "Vélos d’appartement",
+            "Bandes de résistance",
+            "Tapis de yoga"
+        ],
+        "Équipement extérieur": [
+            "Tentes",
+            "Sacs de couchage",
+            "Sacs à dos",
+            "Réchauds de camping",
+            "Bottes de randonnée"
+        ],
+        "Vêtements de sport": [
+            "Chaussures de course",
+            "Brassières de sport",
+            "Shorts de sport",
+            "Maillots",
+            "Survêtements"
+        ],
+        "Sports d’équipe": [
+            "Ballons de football",
+            "Ballons de basket",
+            "Raquettes de tennis",
+            "Gants de baseball",
+            "Crosses de hockey"
+        ],
+        "Sports nautiques": [
+            "Kayaks",
+            "Paddleboards",
+            "Équipements de plongée",
+            "Maillots de bain",
+            "Gilets de sauvetage"
+        ]
+    },
+    "Jouets et Jeux vidéo": {
+        "icon": "gamepad",
+        "Figurines et Poupées": [
+            "Figurines de super-héros",
+            "Poupées Barbie",
+            "Ensembles d’action",
+            "Maisons de poupées",
+            "Peluches"
+        ],
+        "Jouets éducatifs": [
+            "Puzzles",
+            "Blocs de construction",
+            "Kits STEM",
+            "Tablettes éducatives",
+            "Flashcards"
+        ],
+        "Jeux de société et Puzzles": [
+            "Échecs",
+            "Monopoly",
+            "Puzzles",
+            "Jeux de stratégie",
+            "Jeux de cartes"
+        ],
+        "Jeux vidéo": [
+            "Jeux console",
+            "Jeux PC",
+            "Abonnements gaming",
+            "Accessoires de jeu",
+            "Jeux VR"
+        ],
+        "Jouets d’extérieur": [
+            "Trampolines",
+            "Portiques",
+            "Vélos",
+            "Pistolets à eau",
+            "Cerfs-volants"
+        ]
+    },
+    "Industriel": {
+        "icon": "building-3",
+        "Machines industrielles": [
+            "Machines de gravure métalliques",
+            "Machines à glace",
+            "Machines de fabrication de céréales",
+            "Machines à broder",
+            "Moissonneuses",
+            "Presse à huile",
+            "Scies à bois",
+            "Pièces d’équipement laser",
+            "Routeurs à bois",
+            "Machines à injection plastique",
+            "Imprimantes jet d’encre",
+            "Tracteurs",
+            "Autres machines à snacks",
+            "Machines de remplissage",
+            "Machines à coudre",
+            "Machines de traitement de l’eau"
+        ],
+        "Véhicules et Transport": [
+            "Motos tout-terrain",
+            "Mini-motos",
+            "Voitures d’occasion",
+            "Véhicules à énergies nouvelles",
+            "Autres tricycles",
+            "Tricycles électriques",
+            "Motos électriques",
+            "Autobus",
+            "Motos cruiser",
+            "Motos cub",
+            "Voitures neuves",
+            "Autres motos",
+            "Motos d’occasion",
+            "Voitures électriques",
+            "Quads",
+            "Conteneurs"
+        ],
+        "Équipement de service commercial": [
+            "Tableaux interactifs",
+            "Équipements audio",
+            "Équipements de réfrigération",
+            "Amplificateurs et haut-parleurs",
+            "Autres équipements publicitaires",
+            "Signalisation numérique",
+            "POS mobile",
+            "Caisses POS",
+            "Étiqueteuses",
+            "Machines à glace commerciale",
+            "Présentoirs",
+            "Panneaux électroniques",
+            "Autres fournitures hôtelières",
+            "Distributeurs automatiques",
+            "Camions de nourriture",
+            "Cabines photo"
+        ],
+        "Services de fabrication": [
+            "Moules",
+            "Services d’usinage",
+            "Services de moulage",
+            "Fabrication de tôle",
+            "Autres services de fabrication",
+            "Forge"
+        ],
+        "Énergies renouvelables": [
+            "Onduleurs solaires",
+            "Stockage d’énergie domestique",
+            "Batteries lithium-ion",
+            "Générateurs éoliens",
+            "Panneaux solaires",
+            "Systèmes d’énergie solaire",
+            "Batteries au plomb",
+            "Stations d’énergie portables",
+            "Réfrigérateur solaire",
+            "Climatiseur solaire",
+            "Pompe à eau solaire",
+            "UPS",
+            "Autres batteries",
+            "Contrôleur de charge solaire",
+            "Accessoires de batterie",
+            "Ventilateur solaire"
+        ],
+        "Outils et Quincaillerie": [
+            "Fraise",
+            "Perceuses à percussion",
+            "Perceuses",
+            "Meuleuse d’angle",
+            "Outils de tournage",
+            "Ensembles d’outils",
+            "Couteaux",
+            "Pistolets de pulvérisation",
+            "Pièces d’outils",
+            "Autres outils manuels",
+            "Pompes",
+            "Autres outils",
+            "Tondeuses à gazon",
+            "Raccords de tuyaux",
+            "Outils abrasifs",
+            "Joints"
+        ],
+        "Manutention": [
+            "Palans",
+            "Chariots élévateurs",
+            "Brouettes",
+            "Élévateurs à vide",
+            "Autres treuils",
+            "Tables élévatrices",
+            "Treuils",
+            "Chariots",
+            "Empileurs et récupérateurs",
+            "Manipulateur",
+            "Étagères",
+            "Pièces d’équipement de manutention",
+            "Convoyeurs",
+            "Autre équipement de manutention",
+            "Équipement de stockage",
+            "Roulettes"
+        ],
+        "Transmission de puissance": [
+            "Roulements à billes",
+            "Contrôleurs de moteur",
+            "Moteurs DC",
+            "Moteurs AC",
+            "Moteurs pas à pas",
+            "Embouts de bielle",
+            "Courroies de transmission",
+            "Roulements coniques",
+            "Roulements de palier",
+            "Joints universels",
+            "Pompes hydrauliques",
+            "Autres pièces hydrauliques",
+            "Vannes hydrauliques",
+            "Réducteurs",
+            "Poulies",
+            "Boîtes de vitesses"
+        ],
+        "Équipement électrique": [
+            "Interrupteurs télécommandés",
+            "Générateurs à essence",
+            "Convertisseurs/Inverters",
+            "Interrupteurs muraux",
+            "Éclairage professionnel",
+            "Interrupteurs inductifs",
+            "Compteurs d’énergie",
+            "Disjoncteurs",
+            "Câbles électriques",
+            "Alimentation à découpage",
+            "Générateurs diesel",
+            "Autres équipements électriques",
+            "Prises",
+            "Contrôleurs PLC/PAC",
+            "Connecteurs",
+            "Régulateurs de tension"
+        ],
+        "Pièces et accessoires de véhicules": [
+            "Pneus de camion",
+            "Phares LED",
+            "Pare-chocs",
+            "Système de carburant moto",
+            "Avertisseur sonore",
+            "Carénages moto",
+            "Autres systèmes de climatisation",
+            "Autres accessoires d’éclairage",
+            "Systèmes d’échappement moto",
+            "Feux antibrouillard LED",
+            "Autres pièces automobiles",
+            "Roues voitures particulières",
+            "Autres pièces moteur",
+            "Autres pièces de carrosserie",
+            "Autres pièces moto",
+            "Bloc moteur"
+        ],
+        "Machines de construction": [
+            "Pièces de machines de construction",
+            "Excavatrices",
+            "Pompes à béton d’occasion",
+            "Bulldozers d’occasion",
+            "Chargeurs d’occasion",
+            "Machines fabrication portes/fenêtres",
+            "Équipement d’économie d’énergie",
+            "Rouleaux routiers d’occasion",
+            "Niveleuses d’occasion",
+            "Excavatrices d’occasion",
+            "Chargeurs",
+            "Machines fabrication briques",
+            "Plateforme de forage minier",
+            "Pièces de machines minières",
+            "Autres machines de construction",
+            "Mélangeurs de béton"
+        ],
+        "Composants électroniques et télécom": [
+            "Autres composants électroniques",
+            "Kits de développement",
+            "Autres produits télécom",
+            "Autres modules électroniques",
+            "Modules d’alimentation",
+            "Cartes éducatives",
+            "Transistors",
+            "Modules LCD",
+            "PCBA",
+            "Autres circuits intégrés",
+            "Équipements fibre optique",
+            "Câbles de communication",
+            "Autres produits réseau",
+            "Matériaux isolants",
+            "Autres PCB/PCBA",
+            "Répéteurs"
+        ],
+        "Accessoires et outils véhicules": [
+            "Lecteurs DVD voiture",
+            "Autre électronique automobile",
+            "Moniteurs voiture",
+            "GPS",
+            "Boîte noire voiture",
+            "Outils de diagnostic",
+            "Lave-auto",
+            "Subwoofers",
+            "Volants",
+            "Aide au recul",
+            "Autres accessoires intérieur",
+            "Autres accessoires extérieur",
+            "Désodorisant voiture",
+            "Tapis voiture",
+            "Films voiture",
+            "Autres outils véhicule"
+        ]
+    },
+    "Matières premières": {
+        "icon": "flask",
+        "Produits chimiques": [
+            "Matières premières",
+            "Pigments",
+            "Arômes et parfums",
+            "Adhésifs et mastics",
+            "Cyanure et cyanate",
+            "Biogaz",
+            "Hydrocarbures et dérivés",
+            "Biodiesel",
+            "Autres produits de quartz",
+            "Herbicides",
+            "Peintures et revêtements",
+            "Intermédiaires organiques",
+            "Agents auxiliaires chimiques",
+            "Produits chimiques quotidiens",
+            "Lubrifiants",
+            "Polymères",
+            "Carbone"
+        ],
+        "Métaux et Alliages": [
+            "Ferraille d’acier",
+            "Ferraille de fer",
+            "Ferraille d’aluminium",
+            "Ferraille de cuivre",
+            "Fil de cuivre",
+            "Profilés en aluminium",
+            "Matériaux magnétiques",
+            "Autres ferrailles métalliques",
+            "Lingots d’aluminium",
+            "Cathode de cuivre",
+            "Tôles d’acier",
+            "Treillis métallique",
+            "Structures en acier",
+            "Autres métaux",
+            "Produits acier galvanisé",
+            "Tôles aluminium"
+        ],
+        "Caoutchouc et Plastique": [
+            "Feuilles plastiques",
+            "Autres produits en caoutchouc",
+            "Caoutchouc recyclé",
+            "Plastique recyclé",
+            "Neoprène",
+            "Barres plastiques",
+            "Filets en plastique",
+            "Silicone",
+            "HDPE",
+            "Produits plastiques agricoles",
+            "Autres produits plastiques",
+            "Tuyaux en caoutchouc",
+            "Feuilles caoutchouc",
+            "Caoutchouc automobile",
+            "Courroies en caoutchouc",
+            "PP"
+        ],
+        "Textile et Tissus": [
+            "Cuir synthétique",
+            "Doublure textile",
+            "Tissu spandex",
+            "Tissu polyester 100%",
+            "Tissu coton",
+            "Tissu nylon 100%",
+            "Tissus mélangés",
+            "Tissu acrylique 100%",
+            "Tissu laine/polyester",
+            "Fourrure synthétique",
+            "Autres tissus",
+            "Tissus décoration maison",
+            "Tissu polyester/coton",
+            "Fil mélangé",
+            "Tissu non tissé",
+            "Tissu soie 100%"
+        ],
+        "Agriculture": [
+            "Maïs",
+            "Grains de café",
+            "Riz",
+            "Autres équipements aquaculture",
+            "Blé",
+            "Fèves de cacao",
+            "Lentilles",
+            "Oignons frais",
+            "Soja",
+            "Pièges aquaculture",
+            "Serres agricoles",
+            "Aliments pour animaux",
+            "Autres produits agricoles",
+            "Ail frais",
+            "Mangues fraîches",
+            "Matières premières bambou"
+        ]
+    }
+}

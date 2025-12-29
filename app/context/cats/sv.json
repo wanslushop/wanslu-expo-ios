@@ -1,0 +1,668 @@
+{
+    "Hem och Kök": {
+        "icon": "home-heart",
+        "Köksapparater": [
+            "Blenders",
+            "Brödrostar",
+            "Kaffebryggare",
+            "Mikrovågsugnar",
+            "Diskmaskiner"
+        ],
+        "Kokkärl och Bakredskap": [
+            "Grytor",
+            "Stekpannor",
+            "Bakplåtar",
+            "Blandskålar",
+            "Måttkoppar"
+        ],
+        "Serviser": [
+            "Tallar",
+            "Skålar",
+            "Glas",
+            "Bestick",
+            "Serveringsfat"
+        ],
+        "Förvaring och Organisation": [
+            "Matbehållare",
+            "Skafferiorganiserare",
+            "Kryddställ",
+            "Lådinredning"
+        ],
+        "Små Köksredskap": [
+            "Knivar",
+            "Skalare",
+            "Rivjärn",
+            "Burköppnare",
+            "Skärbrädor"
+        ],
+        "Hemstädning": [
+            "Dammsugare",
+            "Moppar",
+            "Rengöringssprayer",
+            "Diskmedel",
+            "Skrubborstar"
+        ]
+    },
+    "Hem och Möbler": {
+        "icon": "sofa",
+        "Vardagsrumsmöbler": [
+            "Soffbord",
+            "TV-bänkar",
+            "Recliners",
+            "Bokhyllor",
+            "Soffor"
+        ],
+        "Sovrumsmöbler": [
+            "Sängar",
+            "Nattduksbord",
+            "Byråer",
+            "Garderober",
+            "Madrasser"
+        ],
+        "Kontorsmöbler": [
+            "Skrivbord",
+            "Kontorsstolar",
+            "Fyllnadsskåp",
+            "Bokhyllor",
+            "Skrivbordslampor"
+        ],
+        "Utomhusmöbler": [
+            "Altan-set",
+            "Solstolar",
+            "Utomhusbord",
+            "Parasoller",
+            "Hammockar"
+        ],
+        "Förvaringslösningar": [
+            "Skåp",
+            "Skoställ",
+            "Förvaringslådor",
+            "Hylla",
+            "Krokar"
+        ]
+    },
+    "Hemdekoration": {
+        "icon": "flower",
+        "Presenter och Hantverk": [
+            "Fyrverkerier",
+            "Dekorativa klistermärken",
+            "Gummi-nyckelringar",
+            "Roliga presenter",
+            "Resinkonst",
+            "Övriga nyckelringar",
+            "Metallnyckelringar",
+            "Presentset",
+            "Metallhantverk",
+            "Kristallhantverk",
+            "Flaggor",
+            "Trähantverk",
+            "Reklampresenter",
+            "Pappershantverk"
+        ],
+        "Hem och Trädgård": [
+            "Paraplyer",
+            "Regnrockar",
+            "Still life-målningar",
+            "Tändare",
+            "Övriga målningar",
+            "Middagsset",
+            "Smarta hem-produkter",
+            "Biltvättshanddukar",
+            "Lunchlådor",
+            "Vattenflaskor",
+            "Muggar",
+            "Kastrullset",
+            "Förvaringslådor",
+            "Termosar",
+            "Festartiklar",
+            "Matförvaringsburkar"
+        ],
+        "Bygg och Fastighet": [
+            "Tapetrullar",
+            "Plywood",
+            "Väggpaneler",
+            "Prefabricerade hus",
+            "Takpannor",
+            "Containerhus",
+            "Övriga skivor",
+            "Blandare för bad & dusch",
+            "Självhäftande tapeter",
+            "Smart-toaletter",
+            "Plastgolv",
+            "Övriga dörrar",
+            "Övriga väggpaneler",
+            "Kakel",
+            "Diskhoar",
+            "Köksluckor"
+        ],
+        "Belysning": [
+            "Nattlampor",
+            "LED-ljusslingor",
+            "LED-moduler",
+            "LED-takfläktar",
+            "Solcells trädgårdslampor",
+            "Vägglampor",
+            "Kristallkronor",
+            "Dimrar",
+            "Neonlampor",
+            "Smarta LED-remsor",
+            "Scenlampor",
+            "Solcells gatulampor",
+            "Smarta lampor",
+            "Ficklampor",
+            "Bordslampor",
+            "LED-glödlampor"
+        ]
+    },
+    "Elektronik": {
+        "icon": "computer",
+        "Datorer och Tillbehör": [
+            "Laptops",
+            "Stationära datorer",
+            "Bildskärmar",
+            "Tangentbord",
+            "Datormöss"
+        ],
+        "Mobila Enheter": [
+            "Smartphones",
+            "Laddare",
+            "Mobilskal",
+            "Surfplattor",
+            "Smartklockor"
+        ],
+        "Hemmaunderhållning": [
+            "TV-apparater",
+            "Soundbars",
+            "Hemmabiosystem",
+            "Streaming-enheter",
+            "Blu-ray-spelare"
+        ],
+        "Kameror och Fotografi": [
+            "Videokameror",
+            "Stativ",
+            "Objektiv",
+            "Minneskort",
+            "Digitalkameror"
+        ],
+        "Gaming": [
+            "Spelkonsoler",
+            "Gaming-laptops",
+            "Handkontroller",
+            "VR-headsets",
+            "Gamingstolar"
+        ]
+    },
+    "Kläder och Accessoarer": {
+        "icon": "shirt",
+        "Herrkläder": [
+            "Skjortor",
+            "Byxor",
+            "Jackor",
+            "Kostymer",
+            "T-shirts"
+        ],
+        "Damkläder": [
+            "Klänningar",
+            "Kjolar",
+            "Blusar",
+            "Jeans",
+            "Träningskläder"
+        ],
+        "Barnkläder": [
+            "Bodies",
+            "T-shirts",
+            "Byxor",
+            "Klänningar",
+            "Skoluniformer"
+        ],
+        "Skor": [
+            "Sneakers",
+            "Stövlar",
+            "Sandaler",
+            "Finskor",
+            "Tofflor"
+        ],
+        "Accessoarer": [
+            "Klockor",
+            "Bälten",
+            "Hattar",
+            "Halsdukar",
+            "Väskor"
+        ]
+    },
+    "Hälsa och Skönhet": {
+        "icon": "empathize",
+        "Hudvård": [
+            "Rengöring",
+            "Fuktkrämer",
+            "Serum",
+            "Solskydd",
+            "Ansiktsmasker"
+        ],
+        "Hårvård": [
+            "Schampo",
+            "Balsam",
+            "Hårbehandlingar",
+            "Stylingverktyg",
+            "Håraccessoarer"
+        ],
+        "Smink": [
+            "Foundation",
+            "Läppstift",
+            "Ögonskuggor",
+            "Mascara",
+            "Sminkborstar"
+        ],
+        "Hälsa och Wellness": [
+            "Vitaminer",
+            "Kosttillskott",
+            "Fitness-trackers",
+            "Personvågar",
+            "Yogamattor"
+        ],
+        "Personlig Vård": [
+            "Tandborstar",
+            "Rakapparater",
+            "Deodoranter",
+            "Tvålar",
+            "Badolja"
+        ]
+    },
+    "Sport och Utomhus": {
+        "icon": "basketball",
+        "Träningsutrustning": [
+            "Löpband",
+            "Hantlar",
+            "Motionscyklar",
+            "Träningsband",
+            "Yogamattor"
+        ],
+        "Utomhusutrustning": [
+            "Tält",
+            "Sovsäckar",
+            "Ryggsäckar",
+            "Campingkök",
+            "Vandringskängor"
+        ],
+        "Sportkläder": [
+            "Löparskor",
+            "Sport-bh:ar",
+            "Träningsshorts",
+            "Tröjor",
+            "Träningsoveraller"
+        ],
+        "Lagsport": [
+            "Fotbollar",
+            "Basketbollar",
+            "Tennisracketar",
+            "Baseballhandskar",
+            "Hockeyklubbor"
+        ],
+        "Vattensport": [
+            "Kajaker",
+            "Paddelbrädor",
+            "Snorkelutrustning",
+            "Badkläder",
+            "Flytvästar"
+        ]
+    },
+    "Leksaker och TV-Spel": {
+        "icon": "gamepad",
+        "Actionfigurer och Dockor": [
+            "Superhjältefigurer",
+            "Barbiedockor",
+            "Actionset",
+            "Dockskåp",
+            "Gosedjur"
+        ],
+        "Pedagogiska Leksaker": [
+            "Pussel",
+            "Byggklossar",
+            "STEM-kit",
+            "Lärplattor",
+            "Flashcards"
+        ],
+        "Brädspel och Pussel": [
+            "Schack",
+            "Monopol",
+            "Pussel",
+            "Strategispel",
+            "Kortspel"
+        ],
+        "TV-spel": [
+            "Konsolspel",
+            "PC-spel",
+            "Spelabonnemang",
+            "Speltillbehör",
+            "VR-spel"
+        ],
+        "Utomhusleksaker": [
+            "Studsmattor",
+            "Gungställningar",
+            "Cyklar",
+            "Vattenpistoler",
+            "Drakar"
+        ]
+    },
+    "Industri": {
+        "icon": "building-3",
+        "Industriella Maskiner": [
+            "Metallgraveringsmaskiner",
+            "Ismaskiner",
+            "Maskiner för spannmålsprodukter",
+            "Broderimaskiner",
+            "Skördetröskor",
+            "Oljepressar",
+            "Träsågar",
+            "Laserutrustningsdelar",
+            "Träfräsar",
+            "Formsprutningsmaskiner",
+            "Bläckstråleskrivare",
+            "Traktorer",
+            "Snacks-maskiner",
+            "Fyllningsmaskiner",
+            "Symaskiner",
+            "Vattenreningsmaskiner"
+        ],
+        "Fordon och Transport": [
+            "Terrängmotorcyklar",
+            "Minibikes",
+            "Begagnade bilar",
+            "Elbilar",
+            "Trehjulingar",
+            "Elektriska trehjulingar",
+            "Elektriska motorcyklar",
+            "Bussar",
+            "Cruiser-motorcyklar",
+            "Cub-bikes",
+            "Nya bilar",
+            "Andra motorcyklar",
+            "Begagnade motorcyklar",
+            "Elbilar",
+            "ATV",
+            "Containrar"
+        ],
+        "Kommersiell Utrustning": [
+            "Interaktiva tavlor",
+            "Ljudutrustning",
+            "Kylutrustning",
+            "Förstärkare och högtalare",
+            "Reklamutrustning",
+            "Digitala skyltar",
+            "Mobila POS-enheter",
+            "Kassaregister",
+            "Etikettmaskiner",
+            "Glassmaskiner",
+            "Ställ och hyllor",
+            "Elektroniska skyltar",
+            "Hotell- och restaurangutrustning",
+            "Varuautomater",
+            "Foodtrucks",
+            "Fotobås"
+        ],
+        "Tillverkningstjänster": [
+            "Formar",
+            "Bearbetning",
+            "Gjutning",
+            "Plåtbearbetning",
+            "Övriga tillverkningstjänster",
+            "Smidestjänster"
+        ],
+        "Förnybar Energi": [
+            "Solinvertrar",
+            "Hemlagring av energi",
+            "Litiumjonbatterier",
+            "Vindgeneratorer",
+            "Solpaneler",
+            "Solenergisystem",
+            "Blybatterier",
+            "Portabla kraftstationer",
+            "Solkylar",
+            "Sol-AC",
+            "Solvattenpumpar",
+            "UPS-enheter",
+            "Övriga batterier",
+            "Sol-laddningskontroller",
+            "Batteritillbehör",
+            "Solfläktar"
+        ],
+        "Verktyg och Hårdvara": [
+            "Fräsar",
+            "Borrhammare",
+            "Borrmaskiner",
+            "Vinkelslipar",
+            "Svarvverktyg",
+            "Verktygssatser",
+            "Knivar",
+            "Spraypistoler",
+            "Verktygsdelar",
+            "Handverktyg",
+            "Pumpar",
+            "Övriga verktyg",
+            "Gräsklippare",
+            "Rörkopplingar",
+            "Slipverktyg",
+            "Packningar"
+        ],
+        "Materialhantering": [
+            "Lyftblock",
+            "Truckar",
+            "Skottkärror",
+            "Vakuumlyftar",
+            "Andra vinschar",
+            "Lyftbord",
+            "Vinschar",
+            "Transportkärror",
+            "Stackers",
+            "Manipulatorer",
+            "Hyllsystem",
+            "Reservdelar",
+            "Transportband",
+            "Materialhanteringsutrustning",
+            "Lagringsutrustning",
+            "Hjul"
+        ],
+        "Kraftöverföring": [
+            "Kullager",
+            "Motorstyrningar",
+            "DC-motorer",
+            "AC-motorer",
+            "Stegmotorer",
+            "Kulleder",
+            "Remmar",
+            "Konerade lager",
+            "Stödlager",
+            "Kardanknutar",
+            "Hydraulpumpar",
+            "Hydrauliska delar",
+            "Hydraulventiler",
+            "Växellådor",
+            "Remskivor",
+            "Gears"
+        ],
+        "Elektrisk Utrustning": [
+            "Fjärrstyrda strömbrytare",
+            "Bensingeneratorer",
+            "Invertrar",
+            "Väggströmbrytare",
+            "Professionell belysning",
+            "Induktiva brytare",
+            "Energimätare",
+            "Automatsäkringar",
+            "Elkablar",
+            "Switchade nätaggregat",
+            "Dieselgeneratorer",
+            "Övrig elektrisk utrustning",
+            "Kontakter",
+            "PLC/PAC-styrenheter",
+            "Kontakter",
+            "Spänningsstabilisatorer"
+        ],
+        "Fordonsdelar och Tillbehör": [
+            "Lastbilsdäck",
+            "LED-strålkastare",
+            "Stötfångare",
+            "Bränslesystem",
+            "Signalhorn",
+            "Motorcykelkåpor",
+            "AC-system",
+            "Bilbelysning",
+            "Avgassystem",
+            "LED-dimljus",
+            "Övriga bildelar",
+            "Bilfälgar",
+            "Motordelar",
+            "Karossdelar",
+            "Motorcykeldelar",
+            "Motorblock"
+        ],
+        "Byggmaskiner": [
+            "Byggmaskindelar",
+            "Grävmaskiner",
+            "Begagnade betongpumpar",
+            "Begagnade bulldozers",
+            "Begagnade lastare",
+            "Fönster- och dörrmaskiner",
+            "Energisparutrustning",
+            "Vägvältar",
+            "Motorgrader",
+            "Begagnade grävmaskiner",
+            "Lastmaskiner",
+            "Tegeltillverkningsmaskiner",
+            "Borriggar",
+            "Gruvutrustning",
+            "Övriga byggmaskiner",
+            "Betongblandare"
+        ],
+        "Elektroniska Komponenter och Telekom": [
+            "Elektroniska komponenter",
+            "Utvecklingskort",
+            "Telekomprodukter",
+            "Elektroniska moduler",
+            "Drivmoduler",
+            "Utbildningskort",
+            "Transistorer",
+            "LCD-moduler",
+            "PCBA",
+            "Integrerade kretsar",
+            "Fiberoptisk utrustning",
+            "Kommunikationskablar",
+            "Nätverksutrustning",
+            "Isoleringsmaterial",
+            "PCB/PCBA",
+            "Repeaters"
+        ],
+        "Fordons-elektronik och Verktyg": [
+            "Bil-DVD-spelare",
+            "Bil-elektronik",
+            "Bilmonitorer",
+            "GPS-navigation",
+            "Bilkameror",
+            "Diagnosverktyg",
+            "Biltvätt",
+            "Subwoofers",
+            "Rattar",
+            "Backningssensorer",
+            "Interiörtillbehör",
+            "Exteriörtillbehör",
+            "Bilparfymer",
+            "Bilmattor",
+            "Bilfilmer",
+            "Fordonsverktyg"
+        ]
+    },
+    "Råmaterial": {
+        "icon": "flask",
+        "Kemikalier": [
+            "Råmaterial",
+            "Pigment",
+            "Arom och doft",
+            "Lim och tätningsmedel",
+            "Cyanider",
+            "Biogas",
+            "Kolväten",
+            "Biodiesel",
+            "Kvartsprodukter",
+            "Herbicider",
+            "Färg och beläggning",
+            "Organiska mellanprodukter",
+            "Kemiska tillsatser",
+            "Hushållskemikalier",
+            "Smutmedel",
+            "Polymerer",
+            "Kol"
+        ],
+        "Metall och Legeringar": [
+            "Stålskrot",
+            "Järnskrot",
+            "Aluminiumskrot",
+            "Kopparskrot",
+            "Koppartråd",
+            "Aluminiumprofiler",
+            "Magnetiska material",
+            "Annat metallskrot",
+            "Aluminiumtackor",
+            "Kopparkatoder",
+            "Stålplåtar",
+            "Stålnät",
+            "Stålkonstruktioner",
+            "Metallprodukter",
+            "Galvaniserade stålprodukter",
+            "Aluminiumplåtar"
+        ],
+        "Gummi och Plast": [
+            "Plastskivor",
+            "Andra gummiprodukter",
+            "Återvunnet gummi",
+            "Återvunnen plast",
+            "Neopren",
+            "Plaststänger",
+            "Plastnät",
+            "Silikongummi",
+            "HDPE",
+            "Jordbruksplast",
+            "Plastprodukter",
+            "Gummislangar",
+            "Gummiskivor",
+            "Bilgummi",
+            "Gummiband",
+            "PP"
+        ],
+        "Tyg och Textil": [
+            "Syntetiskt läder",
+            "Foder tyg",
+            "Spandex tyg",
+            "100% polyester tyg",
+            "Bomullstyg",
+            "100% nylon tyg",
+            "Blandade tyger",
+            "100% akryl tyg",
+            "Ull/polyester tyg",
+            "Fuskpäls",
+            "Andra tyger",
+            "Hemtextil",
+            "Polyester/bomull",
+            "Blandgarn",
+            "Nonwoven tyg",
+            "100% siden tyg"
+        ],
+        "Jordbruk": [
+            "Majs",
+            "Kaffebönor",
+            "Ris",
+            "Akvakulturutrustning",
+            "Vete",
+            "Kakaobönor",
+            "Linser",
+            "Färska lökar",
+            "Sojabönor",
+            "Akvakultur-fällor",
+            "Växthus",
+            "Djurfoder",
+            "Jordbruksprodukter",
+            "Färsk vitlök",
+            "Färska mangos",
+            "Bambu råmaterial"
+        ]
+    }
+}

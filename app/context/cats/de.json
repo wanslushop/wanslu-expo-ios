@@ -1,0 +1,668 @@
+{
+    "Haus & Küche": {
+        "icon": "home-heart",
+        "Küchengeräte": [
+            "Mixer",
+            "Toaster",
+            "Kaffeemaschinen",
+            "Mikrowellen",
+            "Geschirrspüler"
+        ],
+        "Koch- & Backgeschirr": [
+            "Töpfe",
+            "Pfannen",
+            "Backbleche",
+            "Rührschüsseln",
+            "Messbecher"
+        ],
+        "Tafelgeschirr": [
+            "Teller",
+            "Schüsseln",
+            "Gläser",
+            "Besteck",
+            "Servierschale"
+        ],
+        "Aufbewahrung & Organisation": [
+            "Lebensmittelbehälter",
+            "Vorratsorganizer",
+            "Gewürzregale",
+            "Schubladentrenner"
+        ],
+        "Kleine Küchenwerkzeuge": [
+            "Messer",
+            "Schäler",
+            "Reiben",
+            "Dosenöffner",
+            "Schneidebretter"
+        ],
+        "Haushaltsreinigung": [
+            "Staubsauger",
+            "Wischmops",
+            "Reinigungssprays",
+            "Spülmittel",
+            "Schrubber"
+        ]
+    },
+    "Haus & Möbel": {
+        "icon": "sofa",
+        "Wohnzimmermöbel": [
+            "Couchtische",
+            "TV-Ständer",
+            "Liegesessel",
+            "Bücherregale",
+            "Sofas"
+        ],
+        "Schlafzimmermöbel": [
+            "Betten",
+            "Nachttische",
+            "Kommoden",
+            "Kleiderschränke",
+            "Matratzen"
+        ],
+        "Büromöbel": [
+            "Schreibtische",
+            "Bürostühle",
+            "Aktenschränke",
+            "Bücherregale",
+            "Schreibtischlampen"
+        ],
+        "Outdoor-Möbel": [
+            "Terrassen-Sets",
+            "Liegestühle",
+            "Gartentische",
+            "Sonnenschirme",
+            "Hängematten"
+        ],
+        "Aufbewahrungslösungen": [
+            "Schränke",
+            "Schuhregale",
+            "Aufbewahrungsboxen",
+            "Regale",
+            "Haken"
+        ]
+    },
+    "Wohnkultur": {
+        "icon": "flower",
+        "Geschenke & Kunsthandwerk": [
+            "Feuerwerkskörper",
+            "Dekorative Aufkleber",
+            "Gummi-Schlüsselanhänger",
+            "Geschenkartikel",
+            "Harzkunst",
+            "Weitere Schlüsselanhänger",
+            "Metall-Schlüsselanhänger",
+            "Geschenksets",
+            "Metallkunst",
+            "Kristallkunst",
+            "Flaggen",
+            "Holzkunst",
+            "Werbegeschenke",
+            "Papierkunst"
+        ],
+        "Haus & Garten": [
+            "Regenschirme",
+            "Regenmäntel",
+            "Stillleben-Gemälde",
+            "Feuerzeuge",
+            "Weitere Gemälde",
+            "Tafelservice",
+            "Smart-Home-Produkte",
+            "Autohandtücher",
+            "Lunchboxen",
+            "Wasserflaschen",
+            "Becher",
+            "Kochgeschirr-Sets",
+            "Aufbewahrungsboxen",
+            "Thermosflaschen",
+            "Partyartikel",
+            "Lebensmittelbehälter"
+        ],
+        "Bau & Immobilien": [
+            "Tapetenrollen",
+            "Sperrholz",
+            "Wandpaneele & Platten",
+            "Weitere Fertighäuser",
+            "Dachziegel",
+            "Containerhäuser",
+            "Weitere Platten",
+            "Bad- & Duscharmaturen",
+            "Selbstklebende Tapeten",
+            "Intelligente Toiletten",
+            "Kunststoffböden",
+            "Weitere Türen",
+            "Weitere Tapeten/Wandpaneele",
+            "Fliesen",
+            "Küchenspülen",
+            "Küchenschränke"
+        ],
+        "Licht & Beleuchtung": [
+            "Nachtlichter",
+            "LED-Lichterketten",
+            "LED-Module",
+            "LED-Deckenventilatoren",
+            "Solar-Gartenleuchten",
+            "Wandleuchten",
+            "Kronleuchter & Hängelampen",
+            "Dimmer",
+            "Neonlichter",
+            "Intelligente LED-Streifen",
+            "Bühnenbeleuchtung",
+            "Solar-Straßenleuchten",
+            "Smart-Home-Lichter",
+            "Taschenlampen",
+            "Tischlampen",
+            "LED-Glühbirnen"
+        ]
+    },
+    "Elektronik": {
+        "icon": "computer",
+        "Computer & Zubehör": [
+            "Laptops",
+            "Desktop-PCs",
+            "Monitore",
+            "Tastaturen",
+            "Mäuse"
+        ],
+        "Mobile Geräte": [
+            "Smartphones",
+            "Ladegeräte",
+            "Handyhüllen",
+            "Tablets",
+            "Smartwatches"
+        ],
+        "Heimunterhaltung": [
+            "Fernseher",
+            "Soundbars",
+            "Heimkinosysteme",
+            "Streaming-Geräte",
+            "Blu-ray-Player"
+        ],
+        "Kameras & Fotografie": [
+            "Camcorder",
+            "Stative",
+            "Objektive",
+            "Speicherkarten",
+            "Digitalkameras"
+        ],
+        "Gaming": [
+            "Spielkonsolen",
+            "Gaming-Laptops",
+            "Controller",
+            "VR-Headsets",
+            "Gaming-Stühle"
+        ]
+    },
+    "Bekleidung & Accessoires": {
+        "icon": "shirt",
+        "Herrenbekleidung": [
+            "Hemden",
+            "Hosen",
+            "Jacken",
+            "Anzüge",
+            "T-Shirts"
+        ],
+        "Damenbekleidung": [
+            "Kleider",
+            "Röcke",
+            "Blusen",
+            "Jeans",
+            "Sportbekleidung"
+        ],
+        "Kinderbekleidung": [
+            "Strampler",
+            "T-Shirts",
+            "Hosen",
+            "Kleider",
+            "Schuluniformen"
+        ],
+        "Schuhe": [
+            "Sneaker",
+            "Stiefel",
+            "Sandalen",
+            "Formelle Schuhe",
+            "Hausschuhe"
+        ],
+        "Accessoires": [
+            "Uhren",
+            "Gürtel",
+            "Hüte",
+            "Schals",
+            "Taschen"
+        ]
+    },
+    "Gesundheit & Schönheit": {
+        "icon": "empathize",
+        "Hautpflege": [
+            "Reiniger",
+            "Feuchtigkeitscremes",
+            "Seren",
+            "Sonnenschutz",
+            "Gesichtsmasken"
+        ],
+        "Haarpflege": [
+            "Shampoos",
+            "Conditioner",
+            "Haarbehandlungen",
+            "Stylinggeräte",
+            "Haaraccessoires"
+        ],
+        "Make-up": [
+            "Foundation",
+            "Lippenstifte",
+            "Lidschatten",
+            "Mascara",
+            "Make-up-Pinsel"
+        ],
+        "Gesundheit & Wellness": [
+            "Vitamine",
+            "Nahrungsergänzungsmittel",
+            "Fitness-Tracker",
+            "Personenwaagen",
+            "Yogamatten"
+        ],
+        "Körperpflege": [
+            "Zahnbürsten",
+            "Elektrische Rasierer",
+            "Deodorants",
+            "Seifen",
+            "Badeöl"
+        ]
+    },
+    "Sport & Outdoor": {
+        "icon": "basketball",
+        "Fitnessgeräte": [
+            "Laufbänder",
+            "Hanteln",
+            "Heimtrainer",
+            "Widerstandsbänder",
+            "Yogamatten"
+        ],
+        "Outdoor-Ausrüstung": [
+            "Zelte",
+            "Schlafsäcke",
+            "Rucksäcke",
+            "Campingkocher",
+            "Wanderschuhe"
+        ],
+        "Sportbekleidung": [
+            "Laufschuhe",
+            "Sport-BHs",
+            "Sportshorts",
+            "Trikots",
+            "Trainingsanzüge"
+        ],
+        "Teamsport": [
+            "Fußbälle",
+            "Basketbälle",
+            "Tennisschläger",
+            "Baseballhandschuhe",
+            "Hockeystöcke"
+        ],
+        "Wassersport": [
+            "Kajaks",
+            "Paddleboards",
+            "Schnorchelausrüstung",
+            "Badebekleidung",
+            "Rettungswesten"
+        ]
+    },
+    "Spielzeug & Videospiele": {
+        "icon": "gamepad",
+        "Actionfiguren & Puppen": [
+            "Superheldenfiguren",
+            "Barbie-Puppen",
+            "Action-Sets",
+            "Puppenhäuser",
+            "Plüschtiere"
+        ],
+        "Lernspielzeug": [
+            "Puzzles",
+            "Bausteine",
+            "STEM-Kits",
+            "Lerntablets",
+            "Lernkarten"
+        ],
+        "Brettspiele & Puzzles": [
+            "Schach",
+            "Monopoly",
+            "Puzzle",
+            "Strategiespiele",
+            "Kartenspiele"
+        ],
+        "Videospiele": [
+            "Konsolenspiele",
+            "PC-Spiele",
+            "Gaming-Abonnements",
+            "Gaming-Zubehör",
+            "VR-Spiele"
+        ],
+        "Outdoor-Spielzeug": [
+            "Trampoline",
+            "Schaukeln",
+            "Fahrräder",
+            "Wasserpistolen",
+            "Drachen"
+        ]
+    },
+    "Industrie": {
+        "icon": "building-3",
+        "Industriemaschinen": [
+            "Metallgravurmaschinen",
+            "Eismaschinen",
+            "Getreideverarbeitungsmaschinen",
+            "Stickmaschinen",
+            "Mähdrescher",
+            "Ölpressen",
+            "Holzsägen",
+            "Lasergeräteteile",
+            "Holzfräser",
+            "Spritzgussmaschinen",
+            "Tintenstrahldrucker",
+            "Traktoren",
+            "Weitere Snackmaschinen",
+            "Abfüllmaschinen",
+            "Nähmaschinen",
+            "Wasseraufbereitungsanlagen"
+        ],
+        "Fahrzeuge & Transport": [
+            "Geländemotorräder",
+            "Pocketbikes",
+            "Gebrauchtwagen",
+            "Neue Energie Fahrzeuge",
+            "Weitere Dreiräder",
+            "Elektrische Dreiräder",
+            "Elektromotorräder",
+            "Reisebusse",
+            "Cruiser-Motorräder",
+            "Cub-Bikes",
+            "Neuwagen",
+            "Weitere Motorräder",
+            "Gebrauchte Motorräder",
+            "Elektroautos",
+            "ATVs",
+            "Container"
+        ],
+        "Gewerbliche Geräte": [
+            "Interaktive Tafeln",
+            "Audioanlagen",
+            "Kühlgeräte",
+            "Audioverstärker & Lautsprecher",
+            "Werbetechnik",
+            "Digitale Displays",
+            "Mobile POS",
+            "Kassen",
+            "Etikettierer",
+            "Eiscrememaschinen",
+            "Ausstellungsregale",
+            "Elektronische Schilder",
+            "Hotel- & Restaurantbedarf",
+            "Verkaufsautomaten",
+            "Foodtrucks",
+            "Fotokabinen"
+        ],
+        "Fertigungsdienstleistungen": [
+            "Formen",
+            "Zerspanungsdienstleistungen",
+            "Gussdienstleistungen",
+            "Blechbearbeitung",
+            "Weitere Fertigungsdienstleistungen",
+            "Schmiededienstleistungen"
+        ],
+        "Erneuerbare Energie": [
+            "Solarwechselrichter",
+            "Heimspeicher",
+            "Lithium-Ionen-Batterien",
+            "Windgeneratoren",
+            "Solarpaneele",
+            "Solarsysteme",
+            "Bleibatterien",
+            "Tragbare Kraftwerke",
+            "Solar-Kühlschrank",
+            "Solar-Klimaanlage",
+            "Solar-Wasserpumpen",
+            "USV",
+            "Weitere Batterien",
+            "Solar-Laderegler",
+            "Batteriezubehör",
+            "Solarventilatoren"
+        ],
+        "Werkzeuge & Hardware": [
+            "Fräser",
+            "Bohrhämmer",
+            "Elektrische Bohrer",
+            "Winkelschleifer",
+            "Drehwerkzeuge",
+            "Werkzeugsets",
+            "Messer",
+            "Sprühpistolen",
+            "Werkzeugteile",
+            "Handwerkzeuge",
+            "Pumpen",
+            "Weitere Werkzeuge",
+            "Rasenmäher",
+            "Rohrverbindungen",
+            "Schleifwerkzeuge",
+            "Dichtungen"
+        ],
+        "Materialtransport": [
+            "Hebezeuge",
+            "Gabelstapler",
+            "Schubkarren",
+            "Vakuumheber",
+            "Weitere Winden",
+            "Hubtische",
+            "Winden",
+            "Transportwagen",
+            "Stapelgeräte",
+            "Manipulatoren",
+            "Regal- & Lagerlösungen",
+            "Ersatzteile für Fördertechnik",
+            "Förderbänder",
+            "Weitere Transportgeräte",
+            "Lager- & Transportequipment",
+            "Lenkrollen"
+        ],
+        "Kraftübertragung": [
+            "Rillenkugellager",
+            "Motorsteuerungen",
+            "Gleichstrommotoren",
+            "Wechselstrommotoren",
+            "Schrittmotoren",
+            "Gelenklager",
+            "Antriebsriemen",
+            "Kegelrollenlager",
+            "Stehlager",
+            "Kardangelenke",
+            "Hydraulikpumpen",
+            "Weitere Hydraulikteile",
+            "Hydraulikventile",
+            "Geschwindigkeitsreduzierer",
+            "Riemenscheiben",
+            "Getriebe"
+        ],
+        "Elektrische Geräte & Zubehör": [
+            "Fernbedienungsschalter",
+            "Benzingeneratoren",
+            "Wechselrichter/Converter",
+            "Wandschalter",
+            "Professionelles Audio/Video/Licht",
+            "Induktionsschalter",
+            "Energiezähler",
+            "Leistungsschutzschalter",
+            "Elektrokabel",
+            "Netzteile",
+            "Dieselgeneratoren",
+            "Weitere Elektrogeräte",
+            "Steckdosen",
+            "PLC & Controller",
+            "Steckverbinder",
+            "Spannungsregler"
+        ],
+        "Fahrzeugteile & Zubehör": [
+            "LKW-Reifen",
+            "LED-Scheinwerfer",
+            "Stoßstangen",
+            "Motorrad-Kraftstoffsysteme",
+            "Hupen",
+            "Motorradverkleidung",
+            "Weitere Klimasysteme",
+            "Lichtzubehör",
+            "Auspuffanlagen",
+            "LED-Nebelscheinwerfer",
+            "Weitere Autoteile",
+            "Autofelgen",
+            "Weitere Motorteile",
+            "Karosserieteile",
+            "Motorradkarosserien",
+            "Motorblock"
+        ],
+        "Baumaschinen": [
+            "Baumaschinenteile",
+            "Bagger",
+            "Gebrauchte Betonpumpen",
+            "Gebrauchte Bulldozer",
+            "Gebrauchte Radlader",
+            "Maschinen für Fenster & Türen",
+            "Energiespargeräte",
+            "Gebrauchte Straßenwalzen",
+            "Gebrauchte Motorgrader",
+            "Gebrauchte Bagger",
+            "Radlader",
+            "Ziegelmaschinen",
+            "Bohrgeräte",
+            "Bergbaumaschinenteile",
+            "Weitere Baumaschinen",
+            "Betonmischer"
+        ],
+        "Elektronische Komponenten & Telekommunikation": [
+            "Weitere Elektronische Komponenten",
+            "Entwicklungsboards",
+            "Weitere Telekommunikationsprodukte",
+            "Weitere Elektronikmodule",
+            "Leistungsmodul",
+            "Lern-Boards",
+            "Transistoren",
+            "LCD-Module",
+            "PCBA",
+            "Weitere ICs",
+            "Glasfasergeräte",
+            "Kommunikationskabel",
+            "Netzwerkprodukte",
+            "Isolationsmaterial",
+            "Weitere PCB",
+            "Repeater"
+        ],
+        "Fahrzeugzubehör, Elektronik & Werkzeuge": [
+            "Auto-DVD-Player",
+            "Weitere Autoelektronik",
+            "Automonitore",
+            "GPS-Navigation",
+            "Blackbox",
+            "Diagnosewerkzeuge",
+            "Autowaschanlagen",
+            "Subwoofer",
+            "Lenkräder",
+            "Einparkhilfen",
+            "Innenzubehör",
+            "Außenzubehör",
+            "Lufterfrischer",
+            "Automatten",
+            "Autofolien",
+            "Weitere Fahrzeugwerkzeuge"
+        ]
+    },
+    "Rohstoffe": {
+        "icon": "flask",
+        "Chemikalien": [
+            "Rohmaterialien",
+            "Pigmente",
+            "Aromen & Düfte",
+            "Klebstoffe & Dichtstoffe",
+            "Cyanid & Cyanat",
+            "Biogas",
+            "Kohlenwasserstoffe",
+            "Biodiesel",
+            "Weitere Quarzprodukte",
+            "Herbizide",
+            "Beschichtungen & Farben",
+            "Organische Zwischenprodukte",
+            "Chemische Zusatzmittel",
+            "Haushaltschemikalien",
+            "Schmierstoffe",
+            "Polymere",
+            "Kohlenstoff"
+        ],
+        "Metalle & Legierungen": [
+            "Stahlschrott",
+            "Eisenschrott",
+            "Aluminiumschrott",
+            "Kupferschrott",
+            "Kupferdraht",
+            "Aluminiumprofile",
+            "Magnetische Materialien",
+            "Weitere Metallschrotte",
+            "Aluminiumbarren",
+            "Kupferkathoden",
+            "Stahlbleche",
+            "Drahtgeflecht",
+            "Stahlkonstruktionen",
+            "Weitere Metallprodukte",
+            "Verzinkte Stahlprodukte",
+            "Aluminiumbleche"
+        ],
+        "Gummi & Kunststoff": [
+            "Kunststoffplatten",
+            "Weitere Gummiprodukte",
+            "Recycelter Gummi",
+            "Recycelter Kunststoff",
+            "Neopren",
+            "Kunststoffstäbe",
+            "Kunststoffnetze",
+            "Silikongummi",
+            "HDPE",
+            "Landwirtschaftliche Kunststoffprodukte",
+            "Weitere Kunststoffprodukte",
+            "Gummischläuche",
+            "Gummiplatten",
+            "Automobilgummi",
+            "Gummiriemen",
+            "PP"
+        ],
+        "Stoffe & Textilien": [
+            "Kunstleder",
+            "Futterstoff",
+            "Spandexstoff",
+            "100% Polyesterstoff",
+            "Baumwollstoff",
+            "100% Nylonstoff",
+            "Mischgewebe",
+            "Acrylstoff",
+            "Woll-/Polyesterstoff",
+            "Kunstfell",
+            "Weitere Stoffe",
+            "Dekostoff",
+            "Polyester/Baumwolle",
+            "Mischgarn",
+            "Vliesstoff",
+            "100% Seidenstoff"
+        ],
+        "Landwirtschaft": [
+            "Mais",
+            "Kaffeebohnen",
+            "Reis",
+            "Weitere Aquakulturgeräte",
+            "Weizen",
+            "Kakaobohnen",
+            "Linsen",
+            "Frische Zwiebeln",
+            "Sojabohnen",
+            "Aquakulturfallen",
+            "Gewächshäuser",
+            "Tierfutter",
+            "Weitere Agrarprodukte",
+            "Frischer Knoblauch",
+            "Frische Mangos",
+            "Bambus-Rohmaterial"
+        ]
+    }
+}

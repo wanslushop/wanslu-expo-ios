@@ -1,0 +1,668 @@
+{
+    "Home & Kitchen": {
+        "icon": "home-heart",
+        "Kitchen Appliances": [
+            "Blenders",
+            "Toaster",
+            "Coffe Makers",
+            "Microwaves",
+            "Dishwashers"
+        ],
+        "Cookware & Bakeware": [
+            "Pots",
+            "Pans",
+            "Bakeing Sheets",
+            "Mixing Bowls",
+            "Measuring Cup"
+        ],
+        "Tableware": [
+            "Plates",
+            "bowls",
+            "Glasses",
+            "Cutlery",
+            "Serving Dish"
+        ],
+        "Storage & Organization": [
+            "Food Containers",
+            "Pantry Organizers",
+            "Spice Racks",
+            "Drawer Dividers"
+        ],
+        "Small Kitchen Tools": [
+            "Knives",
+            "Peelers",
+            "Graters",
+            "Can openers",
+            "Cutting Boards"
+        ],
+        "Home Cleaning": [
+            "Vacuums",
+            "Mops",
+            "Cleaning Sprays",
+            "Dish Soap",
+            "Scrubbers"
+        ]
+    },
+    "Home & Furniture": {
+        "icon": "sofa",
+        "Living Room Furniture": [
+            "Coffe Tables",
+            "TV Stands",
+            "Recliners",
+            "Bookshelves",
+            "Sofas"
+        ],
+        "Bedroom Furniture": [
+            "Beds",
+            "Nightstands",
+            "Dressers",
+            "Wardrobes",
+            "Mattresses"
+        ],
+        "Office Furniture": [
+            "Desks",
+            "Office Chairs",
+            "Filling Cabinets",
+            "Bookcase",
+            "Desk Lamps"
+        ],
+        "Outdoor Furniture": [
+            "Patio Sets",
+            "Lounge Chairs",
+            "Outdoor Tables",
+            "Umbrellas",
+            "Hammocks"
+        ],
+        "Storage Solutions": [
+            "Closets",
+            "shoe Racks",
+            "Stronge Bins",
+            "Shelves",
+            "Hooks"
+        ]
+    },
+    "Home Decor": {
+        "icon": "flower",
+        "Gifts and Crafts": [
+            "Fireworks Firecrackers",
+            "Decorative Stickers",
+            "Rubber Key Chains",
+            "Novelty Gifts",
+            "Resin Crafts",
+            "Other Key Chains",
+            "Metal Key Chains",
+            "Gift Sets",
+            "Metal Crafts",
+            "Crystal Crafts",
+            "Flags",
+            "Wood Crafts",
+            "Promotional Business Gifts",
+            "Paper Crafts"
+        ],
+        "Home and Garden": [
+            "Umbrellas",
+            "Raincoats",
+            "Still Life Paintings",
+            "Lighters",
+            "Other Paintings",
+            "Dinnerware Sets",
+            "Smart Home Products",
+            "Car Towels",
+            "Lunch Boxes",
+            "Water Bottles",
+            "Mugs",
+            "Cookware Sets",
+            "Storage Boxes Bins",
+            "Vacuum Flasks Thermoses",
+            "Party Novelties",
+            "Food Storage Container"
+        ],
+        "Constructions and Real Estate": [
+            "Wallpaper rolls",
+            "Plywoods",
+            "Wall Panels & Boards",
+            "Other Prefab houses",
+            "Roof Tiles",
+            "Container Houses",
+            "Other Boards",
+            "Bath & Shower Faucets",
+            "Peel & Stick Wallpapers",
+            "Smart Toilets",
+            "Plastic Flooring",
+            "Other Doors",
+            "Other Wallpaper/WallPanels",
+            "Tiles",
+            "Kitchen Sinks",
+            "Kitchen Cabinets"
+        ],
+        "Lights and Lighting": [
+            "Night Lights",
+            "LED Light Strings",
+            "LED Modules",
+            "LED Ceiling Fans",
+            "Solar Garden Lights",
+            "Wall Lamps",
+            "Chandeliers & Pendant Lights",
+            "Dimmers",
+            "Neon Lights",
+            "Smart Strip Lights",
+            "Stage Lights",
+            "Solar Street Lights",
+            "Smart Home Lights",
+            "Flashlights & Torches",
+            "Table Lamps",
+            "LED Bulbs"
+        ]
+    },
+    "Electronics": {
+        "icon": "computer",
+        "Computers & Accessories": [
+            "Laptops",
+            "Desktops",
+            "Monitors",
+            "Keyboards",
+            "Mice"
+        ],
+        "Mobile Devices": [
+            "Smartphones",
+            "Chargers",
+            "Phone Cases",
+            "Tablets",
+            "Smartwatchs"
+        ],
+        "Home Entertainment": [
+            "TVs",
+            "Sounds Bars",
+            "Home Theater Systems",
+            "Streaming Devices",
+            "Bluray Players"
+        ],
+        "Cameras & Photography": [
+            "Camcorders",
+            "Tripods",
+            "Lenses",
+            "Memory Card",
+            "Digital Cameras"
+        ],
+        "Gaming": [
+            "Gaming Consoles",
+            "Gaming Laptops",
+            "Controllers",
+            "VR Headsets",
+            "Gaming Chairs"
+        ]
+    },
+    "Clothing & Accessories": {
+        "icon": "shirt",
+        "Mens Clothing": [
+            "Shirts",
+            "Pants",
+            "Jackets",
+            "Suits",
+            "T-shirt"
+        ],
+        "Womens Clothing": [
+            "Dresses",
+            "Skirts",
+            "Blouses",
+            "Jeans",
+            "Activewear"
+        ],
+        "Kids Clothing": [
+            "Onesies",
+            "T-shirt",
+            "Pants",
+            "Dresses",
+            "School Uniforms"
+        ],
+        "Footwear": [
+            "Sneakers",
+            "Boots",
+            "Sandals",
+            "Formal Shoes",
+            "Slippers"
+        ],
+        "Accessories": [
+            "Watches",
+            "Belts",
+            "Hats",
+            "Scarves",
+            "Bags"
+        ]
+    },
+    "Health & Beauty": {
+        "icon": "empathize",
+        "Skincare": [
+            "Cleansers",
+            "Moisturizers",
+            "Serums",
+            "Sunscreens",
+            "Face Masks"
+        ],
+        "Haircare": [
+            "Shampoos",
+            "Conditioners",
+            "Hair Treatments",
+            "Styling Tools",
+            "Hair Accessories"
+        ],
+        "Makeup": [
+            "Foundation",
+            "Lipstick",
+            "Eyeshadows",
+            "Mascaras",
+            "Makeup brushes"
+        ],
+        "Health & Wellness": [
+            "Vitamins",
+            "Supplements",
+            "Fitness Tracker",
+            "Personal Scales",
+            "Yoga Mats"
+        ],
+        "Personal Care": [
+            "Toothbrushes",
+            "Electric Shavers",
+            "Deodorants",
+            "Soaps",
+            "Bath Oil"
+        ]
+    },
+    "Sport & Outdoor": {
+        "icon": "basketball",
+        "Fitness Equipment": [
+            "Treadmills",
+            "Dumbbells",
+            "Exercise Bikes",
+            "Resistance Bands",
+            "Yoga Mats"
+        ],
+        "Outdoor Gear": [
+            "Tents",
+            "Sleeping Bags",
+            "Backpacks",
+            "Camping Stoves",
+            "Hiking Boots"
+        ],
+        "Sportswear": [
+            "Running Shoes",
+            "Sport Bras",
+            "Athletic Shorts",
+            "Jerseys",
+            "Tracksuits"
+        ],
+        "Team Sports": [
+            "Soccer Balls",
+            "Basketballs",
+            "Tennis Rackets",
+            "Baseball Gloves",
+            "Hockey Sticks"
+        ],
+        "Water Sports": [
+            "Kayaks",
+            "Paddleboards",
+            "Snorkeling Gear",
+            "Swimwear",
+            "Life Vest"
+        ]
+    },
+    "Toy & Video Games": {
+        "icon": "gamepad",
+        "Action Figures & Dolls": [
+            "Superhero Figures",
+            "Barbie Dolls",
+            "Action Sets",
+            "Dollhouses",
+            "Plush Toys"
+        ],
+        "Educational Toys": [
+            "Puzzles",
+            "Building Blocks",
+            "STEM Kits",
+            "Learning Tablets",
+            "Flashcards"
+        ],
+        "Board Games & Puzzles": [
+            "Chess",
+            "Monopoly",
+            "Jigsaw Puzzles",
+            "Strategy Games",
+            "Card Games"
+        ],
+        "Video Games": [
+            "Console Games",
+            "PC Games",
+            "Gaming Subscriptions",
+            "Game Accessories",
+            "VR Games"
+        ],
+        "Outdoor Toys": [
+            "Trampolines",
+            "Swing sets",
+            "Bicycles",
+            "Water Guns",
+            "Kites"
+        ]
+    },
+    "Industrial": {
+        "icon": "building-3",
+        "Industrial Machinery": [
+            "Metal Engraving Machinery",
+            "Ice Machines",
+            "Grain Product Making Machines",
+            "Embroidery Machines",
+            "Harvesters",
+            "Oil Pressers",
+            "Wood Saw Machines",
+            "Laser Equipment Parts",
+            "Wood Routers",
+            "Injection Molding Machines",
+            "Inkjet Printers",
+            "Tractors",
+            "Other Snack Machines",
+            "Filling Machines",
+            "Sewing Machines",
+            "Water Treatment Machinery"
+        ],
+        "Vehicles and Trasportation": [
+            "Off-road Motorcycles",
+            "Minibike/Pocketbikes",
+            "Used Cars",
+            "New Energy Vehicles",
+            "Other Tricycles",
+            "Electric Tricycles",
+            "Electric Motorcycles",
+            "Coaches",
+            "Curiser Motorcycles",
+            "Underbone/Cub Bikes",
+            "New Cars",
+            "Other Motorcycles",
+            "Used Motorcycles",
+            "Electric Cars",
+            "ATVs",
+            "Containers"
+        ],
+        "Commercial Service Equipment": [
+            "Interactive Boards",
+            "Audio Sound Equipment",
+            "Refrigeration Equipment",
+            "Sound Equipment Amplifiers Speaker",
+            "Other Advertising Equipment",
+            "Digital Signage and Displays",
+            "Mobile POS",
+            "Cash Register POS",
+            "Labelers",
+            "Commercial Ice Cream Machine",
+            "Display Racks",
+            "Electronic Signs",
+            "Other Hotel & Restaurant Supplies",
+            "Vending Machines",
+            "Food Trucks",
+            "Photo Booth"
+        ],
+        "Fabrication Services": [
+            "Moulds",
+            "Machining Services",
+            "Casting Services",
+            "Sheet Metal Fabrication",
+            "Other Fabrication Services",
+            "Forging Services"
+        ],
+        "Renewable Energy": [
+            "Solar Inverters",
+            "Home Energy Storage",
+            "Lithium Ion Batteries",
+            "Wind Generators",
+            "Solar Panels",
+            "Solar Energy System",
+            "Lead Acid Batteries",
+            "Portable Power Stations",
+            "Solar Refrigerator",
+            "Solar Air Conditioner",
+            "Solar Water Pump",
+            "Uninterruptible Power Supplies (UPS)",
+            "Other Batteries",
+            "Solar Charge Controller",
+            "Battery Accessories",
+            "Solar Fan"
+        ],
+        "Tools and Hardware": [
+            "Milling Cutter",
+            "Power Hammer Drills",
+            "Power Drills",
+            "Angle Grinder",
+            "Turning Tool",
+            "Tool Sets",
+            "Knives",
+            "Power Spray Guns",
+            "Tool Parts",
+            "Other Hand Tools",
+            "Pumps",
+            "Other Tools",
+            "Lawn Mowers",
+            "Pipe Fittings",
+            "Abrasive Tools",
+            "Seals"
+        ],
+        "Material Handling": [
+            "Hoists",
+            "Forklifts",
+            "Wheelbarrows",
+            "Vacuum Lifters",
+            "Other Winches",
+            "Lift Tables",
+            "Winches",
+            "Hand Carts & Trolleys",
+            "Stackers & Reclaimers",
+            "Manipulator",
+            "Stacking Racks & Shelves",
+            "Material Handling Equipment Parts",
+            "Conveyors",
+            "Other Material Handling Equipment",
+            "Cargo & Storage Equipment",
+            "Casters"
+        ],
+        "Power Transmission": [
+            "Deep Groove Ball Bearings",
+            "Motor Controllers",
+            "DC Motors",
+            "AC Motors",
+            "Stepper Motors",
+            "Rod End Bearings",
+            "Transmission Belts",
+            "Taper Roller Bearings",
+            "Pillow Block Bearings",
+            "Universal Joints",
+            "Hydraulic Pumps",
+            "Other Hydraulic Parts",
+            "Hydraulic Valves",
+            "Speed Reducers",
+            "Pulleys",
+            "Gearboxes"
+        ],
+        "Electrical Equipment and Supplies": [
+            "Remote Control Switches",
+            "Gasoline Generators",
+            "Inverters Converters",
+            "Wall Switches",
+            "Professional Audio, Video Lighting(old)",
+            "Inductive Switches",
+            "Energy Meters",
+            "Circuit Breakers",
+            "Electrical Wires",
+            "Switching Power Supply",
+            "Diesel Generators",
+            "Other Electrical Equipment",
+            "Plugs Sockets",
+            "PLC, PAC, Dedicated Controllers",
+            "Connectors",
+            "Voltage Regulators/Stabilizers"
+        ],
+        "Vehicle Parts and Accessories": [
+            "Truck Tire",
+            "LED Headlights",
+            "Car Bumpers",
+            "Motorcycle Fuel System",
+            "Speaker Horn",
+            "Motorcycle Fairing",
+            "Other Air Conditioning Systems",
+            "Others Car Light Accessories",
+            "Motorcycle Exhaust System",
+            "LED Fog/Driving Lights",
+            "Other Auto Parts",
+            "Passenger Car Wheels",
+            "Other Engine Parts",
+            "Other Body Parts",
+            "Other Motorcycle Body Systems",
+            "Engine Assembly"
+        ],
+        "Construction and Building Machinery": [
+            "Construction Machinery Parts",
+            "Excavators",
+            "Used Concrete Pumps",
+            "Used Bulldozers",
+            "Used Loaders",
+            "Window and Door Making Machinery",
+            "Energy Saving Equipment",
+            "Used Road Roller",
+            "Used Motor Graders",
+            "Used Excavators",
+            "Loaders",
+            "Brick Making Machinery",
+            "Mine Drilling Rig",
+            "Mining Machine Parts",
+            "Other Construction Machinery",
+            "Concrete Mixers"
+        ],
+        "Electronic Components, Accessories and Telecommunication{\" \"}": [
+            "Other Electronic Components",
+            "Development Boards, Kits",
+            "Other Telecommunications Products",
+            "Other Electronic Modules and Kits",
+            "Power Driver Modules",
+            "Education Maker Boards",
+            "Transistors",
+            "LCD Modules",
+            "PCBA",
+            "Other ICs",
+            "Fiber Optic Equipment",
+            "Communication Cables",
+            "Other Communication Networking Product",
+            "Insulation Materials Elements",
+            "Other PCB PCBA",
+            "Repeaters"
+        ],
+        "Vehicle Accessories, Electronics and Tools": [
+            "Car DVD Player",
+            "Other Auto Electronics",
+            "Car Monitor",
+            "Navigation GPS",
+            "Car Black Box",
+            "Diagnostic Tools",
+            "Car Washer",
+            "Subwoofers",
+            "Car Steering Wheel",
+            "Car Reversing Aid",
+            "Other Interior Accessories",
+            "Other Exterior Accessories",
+            "Car Freshener",
+            "Car Mats",
+            "Car Films",
+            "Other Vehicle Tools"
+        ]
+    },
+    "Raw Materials": {
+        "icon": "flask",
+        "Chemicals": [
+            "Raw Materials",
+            "Pigment",
+            "Flavor & Fragrance",
+            "Adhesives & Sealants",
+            "Cyanide & Cyanate",
+            "Biogas",
+            "Hydrocarbon & Derivatives",
+            "Biodiesel",
+            "Other Quartz Products",
+            "Herbicides",
+            "Coating & Paint",
+            "Organic Intermediate",
+            "Chemical Auxiliary Agent",
+            "Daily Chemicals",
+            "Lubricant",
+            "Polymer",
+            "Carbon"
+        ],
+        "Metal and Alloys": [
+            "Steel Scrap",
+            "Iron Scrap",
+            "Aluminum Scrap",
+            "Copper Scrap",
+            "Copper Wire",
+            "Aluminum Profiles",
+            "Magnetic Materials",
+            "Other Metal Scrap",
+            "Aluminum Ingots",
+            "Copper Cathode",
+            "Steel Sheets (Old)",
+            "Steel Wire Mesh",
+            "Steel Structures",
+            "Other Metals Metal Products",
+            "Galvanized Steel Products",
+            "Aluminum Sheets"
+        ],
+        "Rubber and Plastic": [
+            "Plastic Sheets",
+            "Other Rubber Products",
+            "Recycled Rubber",
+            "Recycled Plastic",
+            "Neoprene",
+            "Plastic Rods",
+            "Plastic Nets",
+            "Silicone Rubber",
+            "HDPE",
+            "Agricultural Plastic Products",
+            "Other Plastic Products",
+            "Rubber Hoses",
+            "Rubber Sheets",
+            "Automotive Rubber",
+            "Rubber Belts",
+            "PP"
+        ],
+        "Fabric and Textiles": [
+            "Synthetic Leather",
+            "Lining Fabric",
+            "Spandex Fabric",
+            "100% Polyester Fabric",
+            "Cotton Fabric",
+            "100% Nylon Fabric",
+            "Mixed Fabric",
+            "100% Acrylic Fabric",
+            "Wool/Polyester Fabric",
+            "Faux Fur",
+            "Other Fabric",
+            "Home Deco Fabric",
+            "Polyester/Cotton Fabric",
+            "Blended Yarn",
+            "Nonwoven Fabric",
+            "100% Silk Fabric"
+        ],
+        "Agriculture": [
+            "Corn",
+            "Coffee Beans",
+            "Rice",
+            "Other Aquaculture Equipment",
+            "Wheat",
+            "Cacao Beans",
+            "Lentils",
+            "Fresh Onions",
+            "Soybeans",
+            "Aquaculture Trap",
+            "Agricultural Greenhouses",
+            "Animal Feed",
+            "Other Agriculture Products",
+            "Fresh Garlic",
+            "Fresh Mangos",
+            "Bamboo Raw Materials"
+        ]
+    }
+}

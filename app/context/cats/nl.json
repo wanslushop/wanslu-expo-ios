@@ -1,0 +1,668 @@
+{
+    "Huis & Keuken": {
+        "icon": "home-heart",
+        "Keukenapparaten": [
+            "Blenders",
+            "Toasters",
+            "Koffiezetapparaten",
+            "Magnetrons",
+            "Vaatwassers"
+        ],
+        "Kook- & Bakgerei": [
+            "Pannen",
+            "Koekenpannen",
+            "Bakplaten",
+            "Mengkommen",
+            "Maatbekers"
+        ],
+        "Tafelgerei": [
+            "Borden",
+            "Kommetjes",
+            "Glazen",
+            "Bestek",
+            "Serveerschalen"
+        ],
+        "Opslag & Organisatie": [
+            "Voedselcontainers",
+            "Voorraadkastorganizers",
+            "Kruidenrekken",
+            "Ladeverdelers"
+        ],
+        "Kleine Keukentools": [
+            "Messen",
+            "Schillers",
+            "Rasp",
+            "Blikopeners",
+            "Snijplanken"
+        ],
+        "Huishoudreiniging": [
+            "Stofzuigers",
+            "Dweilen",
+            "Reinigingssprays",
+            "Afwasmiddel",
+            "Sponsjes"
+        ]
+    },
+    "Huis & Meubels": {
+        "icon": "sofa",
+        "Woonkamermeubels": [
+            "Salontafels",
+            "TV-meubels",
+            "Recliners",
+            "Boekenkasten",
+            "Banken"
+        ],
+        "Slaapkamermeubels": [
+            "Bedden",
+            "Nachtkastjes",
+            "Dressoirs",
+            "Kledingkasten",
+            "Matrassen"
+        ],
+        "Kantoormeubels": [
+            "Bureaus",
+            "Bureaustoelen",
+            "Archiefkasten",
+            "Boekenkasten",
+            "Bureaulampen"
+        ],
+        "Buitenmeubels": [
+            "Terrassets",
+            "Loungechairs",
+            "Buitentafels",
+            "Parasols",
+            "Hangmatten"
+        ],
+        "Opbergoplossingen": [
+            "Kasten",
+            "Schoenenrekken",
+            "Opbergboxen",
+            "Planken",
+            "Haken"
+        ]
+    },
+    "Woningdecoratie": {
+        "icon": "flower",
+        "Cadeaus en Ambachten": [
+            "Vuurwerk",
+            "Decoratieve Stickers",
+            "Rubberen Sleutelhangers",
+            "Gadgetcadeaus",
+            "Harsambachten",
+            "Andere Sleutelhangers",
+            "Metalen Sleutelhangers",
+            "Cadeausets",
+            "Metalen Ambachten",
+            "Kristallen Ambachten",
+            "Vlaggen",
+            "Houten Ambachten",
+            "Promotionele Cadeaus",
+            "Papieren Ambachten"
+        ],
+        "Huis en Tuin": [
+            "Paraplu's",
+            "Regenjassen",
+            "Stilleven Schilderijen",
+            "Aanstekers",
+            "Andere Schilderijen",
+            "Serviessets",
+            "Smart Home Producten",
+            "Autodoeken",
+            "Lunchboxen",
+            "Waterflessen",
+            "Mokken",
+            "Kooksets",
+            "Opbergboxen",
+            "Thermosflessen",
+            "Feestartikelen",
+            "Voedselopslagcontainers"
+        ],
+        "Bouw en Vastgoed": [
+            "Behangrollen",
+            "Multiplexplaten",
+            "Muurpanelen",
+            "Prefab Woningen",
+            "Dakpannen",
+            "Containerwoningen",
+            "Andere Platen",
+            "Douches & Kranten",
+            "Zelfklevend Behang",
+            "Slimme Toiletten",
+            "Kunststof Vloeren",
+            "Andere Deuren",
+            "Andere Behangsoorten",
+            "Tegels",
+            "Keukenspoelbakken",
+            "Keukenkasten"
+        ],
+        "Verlichting": [
+            "Nachtlampjes",
+            "LED-lichtstrengen",
+            "LED-modules",
+            "LED-plafondventilatoren",
+            "Zonne-tuinlampen",
+            "Wandlampen",
+            "Kroonluchters",
+            "Dimmers",
+            "Neonlichten",
+            "Slimme Lichtstrips",
+            "Podiumverlichting",
+            "Zonnestraatlampen",
+            "Slimme Lampen",
+            "Zaklampen",
+            "Tafellampen",
+            "LED-lampen"
+        ]
+    },
+    "Elektronica": {
+        "icon": "computer",
+        "Computers en Accessoires": [
+            "Laptops",
+            "Desktops",
+            "Monitors",
+            "Toetsenborden",
+            "Muizen"
+        ],
+        "Mobiele Apparaten": [
+            "Smartphones",
+            "Opladers",
+            "Telefoonhoesjes",
+            "Tablets",
+            "Smartwatches"
+        ],
+        "Home Entertainment": [
+            "TV’s",
+            "Soundbars",
+            "Home Theater Systemen",
+            "Streamingapparaten",
+            "Blu-ray Spelers"
+        ],
+        "Camera’s en Fotografie": [
+            "Camcorders",
+            "Statief",
+            "Lenzen",
+            "Geheugenkaarten",
+            "Digitale Camera’s"
+        ],
+        "Gaming": [
+            "Gameconsoles",
+            "Gaming Laptops",
+            "Controllers",
+            "VR-headsets",
+            "Gamingstoelen"
+        ]
+    },
+    "Kleding & Accessoires": {
+        "icon": "shirt",
+        "Herenkleding": [
+            "Overhemden",
+            "Broeken",
+            "Jassen",
+            "Pakken",
+            "T-shirts"
+        ],
+        "Dameskleding": [
+            "Jurken",
+            "Rokjes",
+            "Blouses",
+            "Jeans",
+            "Sportkleding"
+        ],
+        "Kinderkleding": [
+            "Rompertjes",
+            "T-shirts",
+            "Broeken",
+            "Jurken",
+            "Schooluniformen"
+        ],
+        "Schoeisel": [
+            "Sneakers",
+            "Laarzen",
+            "Sandalen",
+            "Formele Schoenen",
+            "Slippers"
+        ],
+        "Accessoires": [
+            "Horloges",
+            "Riemen",
+            "Hoeden",
+            "Sjaals",
+            "Tassen"
+        ]
+    },
+    "Gezondheid & Beauty": {
+        "icon": "empathize",
+        "Huidverzorging": [
+            "Reinigers",
+            "Moisturizers",
+            "Serums",
+            "Zonnebrand",
+            "Gezichtsmaskers"
+        ],
+        "Haarverzorging": [
+            "Shampoos",
+            "Conditioners",
+            "Haarbehandelingen",
+            "Stylingtools",
+            "Haaraccessoires"
+        ],
+        "Make-up": [
+            "Foundation",
+            "Lipstick",
+            "Oogschaduw",
+            "Mascara",
+            "Make-up Kwasten"
+        ],
+        "Gezondheid & Welzijn": [
+            "Vitaminen",
+            "Supplementen",
+            "Fitness Trackers",
+            "Personenweegschalen",
+            "Yogamatten"
+        ],
+        "Persoonlijke Verzorging": [
+            "Tandenborstels",
+            "Elektrische Scheerapparaten",
+            "Deodorants",
+            "Zepen",
+            "Badolie"
+        ]
+    },
+    "Sport & Outdoor": {
+        "icon": "basketball",
+        "Fitnessapparatuur": [
+            "Loopbanden",
+            "Dumbbells",
+            "Hometrainers",
+            "Weerstandsbanden",
+            "Yogamatten"
+        ],
+        "Outdoor Uitrusting": [
+            "Tenten",
+            "Slaapzakken",
+            "Rugzakken",
+            "Kooktoestellen",
+            "Wandellaarzen"
+        ],
+        "Sportkleding": [
+            "Hardloopschoenen",
+            "Sportbeha's",
+            "Sportshorts",
+            "Sportshirts",
+            "Trainingspakken"
+        ],
+        "Teamsporten": [
+            "Voetballen",
+            "Basketballen",
+            "Tennisrackets",
+            "Honkbalhandschoenen",
+            "Hockeysticks"
+        ],
+        "Watersport": [
+            "Kajaks",
+            "Paddleboards",
+            "Snorkelsets",
+            "Zwemkleding",
+            "Reddingsvesten"
+        ]
+    },
+    "Speelgoed & Videospellen": {
+        "icon": "gamepad",
+        "Actiefiguren & Poppen": [
+            "Superheldenfiguren",
+            "Barbiepoppen",
+            "Actiesets",
+            "Poppenhuizen",
+            "Knuffels"
+        ],
+        "Educatief Speelgoed": [
+            "Puzzels",
+            "Bouwblokken",
+            "STEM-pakketten",
+            "Leer Tablets",
+            "Flashcards"
+        ],
+        "Bordspellen & Puzzels": [
+            "Schaken",
+            "Monopoly",
+            "Legpuzzels",
+            "Strategische Spellen",
+            "Kaartspellen"
+        ],
+        "Videospellen": [
+            "Console Games",
+            "PC Games",
+            "Gaming Abonnementen",
+            "Game Accessoires",
+            "VR Games"
+        ],
+        "Buitenspeelgoed": [
+            "Trampolines",
+            "Schommels",
+            "Fietsen",
+            "Waterpistolen",
+            "Vliegers"
+        ]
+    },
+    "Industrieel": {
+        "icon": "building-3",
+        "Industriële Machines": [
+            "Metaalgraveermachines",
+            "IJsmachines",
+            "Graanverwerkingsmachines",
+            "Borduurmachines",
+            "Oogstmachines",
+            "Oliepersen",
+            "Houtzaagmachines",
+            "Laserapparatuur Onderdelen",
+            "Houtbewerkingsrouters",
+            "Spuitgietmachines",
+            "Inkjetprinters",
+            "Tractoren",
+            "Snackmachines",
+            "Vulmachines",
+            "NaaiMachines",
+            "Waterbehandelingsmachines"
+        ],
+        "Voertuigen & Transport": [
+            "Off-road Motoren",
+            "Minibikes",
+            "Gebruikte Auto's",
+            "Nieuwe Energievoertuigen",
+            "Trikes",
+            "Elektrische Trikes",
+            "Elektrische Motoren",
+            "Bussen",
+            "Cruisermotoren",
+            "Cub Bikes",
+            "Nieuwe Auto's",
+            "Motoren",
+            "Gebruikte Motoren",
+            "Elektrische Auto's",
+            "ATV's",
+            "Containers"
+        ],
+        "Commerciële Apparatuur": [
+            "Interactieve Borden",
+            "Audioapparatuur",
+            "Koelapparatuur",
+            "Versterkers & Speakers",
+            "Reclameapparatuur",
+            "Digitale Displays",
+            "Mobiele POS",
+            "Kassa's",
+            "Labelapparaten",
+            "IJsMachines",
+            "Displayrekken",
+            "Elektronische Borden",
+            "Hotel & Restaurant Benodigdheden",
+            "Automaten",
+            "Foodtrucks",
+            "Fotohokjes"
+        ],
+        "Fabricagediensten": [
+            "Mallen",
+            "Machinediensten",
+            "Gietdiensten",
+            "Plaatbewerking",
+            "Fabricage Services",
+            "Smeedwerk"
+        ],
+        "Hernieuwbare Energie": [
+            "Zonne-inverters",
+            "Thuis Batterijopslag",
+            "Lithium-ion Batterijen",
+            "Windgeneratoren",
+            "Zonnepanelen",
+            "Zonne-energiesystemen",
+            "Loodzuurbatterijen",
+            "Power Stations",
+            "Zonnekoelkasten",
+            "Zonne-airconditioners",
+            "Zonnewaterpompen",
+            "UPS",
+            "Batterijen",
+            "Laadcontrollers",
+            "Batterijaccessoires",
+            "Zonneventilatoren"
+        ],
+        "Gereedschap & Hardware": [
+            "Frezen",
+            "Hamerboren",
+            "Boormachines",
+            "Haakse Slijpers",
+            "Draaigereedschap",
+            "Gereedschapssets",
+            "Messen",
+            "Verfspuiten",
+            "Gereedschapsdelen",
+            "Handgereedschap",
+            "Pompen",
+            "Gereedschap",
+            "Grasmaaiers",
+            "Pijpverbindingen",
+            "Schuurgereedschap",
+            "Seals"
+        ],
+        "Materiaalverwerking": [
+            "Takels",
+            "Vorkheftrucks",
+            "Kruiwagens",
+            "Vacuümlifters",
+            "Lieren",
+            "Heftafels",
+            "Lieren",
+            "Handkarren",
+            "Stackers",
+            "Manipulatoren",
+            "Rekken",
+            "Onderdelen",
+            "Transportbanden",
+            "Handling Apparatuur",
+            "Opslagapparatuur",
+            "Wieltjes"
+        ],
+        "Krachtoverdracht": [
+            "Kogellagers",
+            "Motorcontrollers",
+            "DC-motoren",
+            "AC-motoren",
+            "Stappenmotoren",
+            "Kogelkoplagers",
+            "Transmissieriemen",
+            "Kegellagers",
+            "Bloklagers",
+            "Universele Joints",
+            "Hydraulische Pompen",
+            "Hydraulische Onderdelen",
+            "Hydraulische Kleppen",
+            "Snelheidsreductoren",
+            "Poelies",
+            "Versnellingsbakken"
+        ],
+        "Elektrische Apparatuur": [
+            "Afstandsbediening Schakelaars",
+            "Benzinegeneratoren",
+            "Inverters",
+            "Wandschakelaars",
+            "Professionele Verlichting",
+            "Inductieschakelaars",
+            "Energietellers",
+            "Zekeringen",
+            "Elektrische Bekabeling",
+            "Schakelende Voedingen",
+            "Dieselgeneratoren",
+            "Elektrische Apparatuur",
+            "Stopcontacten",
+            "PLC/PAC Controllers",
+            "Connectoren",
+            "Voltage Stabilisatoren"
+        ],
+        "Voertuigonderdelen & Accessoires": [
+            "Vrachtautobanden",
+            "LED-koplampen",
+            "Bumpers",
+            "Brandstofsystemen",
+            "Claxons",
+            "Motorfiets Kappen",
+            "Airco Systemen",
+            "Autolicht Accessoires",
+            "Uitlaatsystemen",
+            "LED Mistlampen",
+            "Auto-onderdelen",
+            "Autowielen",
+            "Motoronderdelen",
+            "Carrosserieonderdelen",
+            "Motorfietsonderdelen",
+            "Motorassemblage"
+        ],
+        "Bouwmachines": [
+            "Bouwmachineonderdelen",
+            "Graafmachines",
+            "Betonpompen",
+            "Bulldozers",
+            "Laders",
+            "Ramen en Deuren Machines",
+            "Energiebesparende Apparaten",
+            "Walsen",
+            "Graders",
+            "Graafmachines",
+            "Laders",
+            "Baksteenmachines",
+            "Boorinstallaties",
+            "Mijnbouwmachine Onderdelen",
+            "Bouwmachines",
+            "Cementmixers"
+        ],
+        "Elektronische Onderdelen & Telecom": [
+            "Elektronische Onderdelen",
+            "Ontwikkelingsborden",
+            "Telecomproducten",
+            "Elektronische Modules",
+            "Driver Modules",
+            "Educatieve Borden",
+            "Transistors",
+            "LCD-modules",
+            "PCBA",
+            "IC’s",
+            "Glasvezelapparatuur",
+            "Communicatiekabels",
+            "Netwerkproducten",
+            "Isolatiematerialen",
+            "PCB/PCBA",
+            "Repeaters"
+        ],
+        "Auto-accessoires & Tools": [
+            "Auto DVD-spelers",
+            "Auto-elektronica",
+            "Automonitors",
+            "Navigatie GPS",
+            "Dashcams",
+            "Diagnosetools",
+            "Autowassers",
+            "Subwoofers",
+            "Stuurwielen",
+            "Achterrijhulpmiddelen",
+            "Interieuraccessoires",
+            "Exterieuraccessoires",
+            "Luchtverfrissers",
+            "Matten",
+            "Autofilm",
+            "Gereedschap"
+        ]
+    },
+    "Grondstoffen": {
+        "icon": "flask",
+        "Chemicaliën": [
+            "Grondstoffen",
+            "Pigment",
+            "Geur & Aroma",
+            "Lijmen & Kitten",
+            "Cyanide",
+            "Biogas",
+            "Koolwaterstoffen",
+            "Biodiesel",
+            "Kwartsproducten",
+            "Herbicides",
+            "Coatings & Verf",
+            "Organische Intermediairen",
+            "Hulpchemicaliën",
+            "Dagelijkse Chemicaliën",
+            "Smeermiddelen",
+            "Polymeren",
+            "Koolstof"
+        ],
+        "Metaal & Legeringen": [
+            "Staal Schroot",
+            "Ijzer Schroot",
+            "Aluminium Schroot",
+            "Koper Schroot",
+            "Koperdraad",
+            "Aluminium Profielen",
+            "Magnetische Materialen",
+            "Metaal Schroot",
+            "Aluminium Ingot",
+            "Koper Kathode",
+            "Stalen Platen",
+            "Stalen Netten",
+            "Staalstructuren",
+            "Metaalproducten",
+            "Verzinkt Staal",
+            "Aluminium Platen"
+        ],
+        "Rubber & Plastic": [
+            "Plastic Platen",
+            "Rubberproducten",
+            "Gerecycled Rubber",
+            "Gerecycled Plastic",
+            "Neopreen",
+            "Plastic Staven",
+            "Plastic Netten",
+            "Siliconenrubber",
+            "HDPE",
+            "Landbouwplastic",
+            "Plastic Producten",
+            "Rubberslangen",
+            "Rubberplaten",
+            "Auto Rubber",
+            "Rubberriemen",
+            "PP"
+        ],
+        "Stoffen & Textiel": [
+            "Kunstleer",
+            "Voeringstoffen",
+            "Spandex",
+            "100% Polyester",
+            "Katoen",
+            "100% Nylon",
+            "Gemengde Stoffen",
+            "100% Acryl",
+            "Wol/Polyester",
+            "Kunstbont",
+            "Textiel",
+            "Woondecoratiestoffen",
+            "Poly/Katoen",
+            "Garen",
+            "Non-woven",
+            "100% Zijde"
+        ],
+        "Landbouw": [
+            "Maïs",
+            "Koffiebonen",
+            "Rijst",
+            "Aquacultuur Apparatuur",
+            "Tarwe",
+            "Cacaobonen",
+            "Linzen",
+            "Uien",
+            "Sojabonen",
+            "Aquacultuurvallen",
+            "Kassen",
+            "Diervoeding",
+            "Landbouwproducten",
+            "Knoflook",
+            "Mango's",
+            "Bamboe Grondstoffen"
+        ]
+    }
+}

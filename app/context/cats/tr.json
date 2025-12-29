@@ -1,0 +1,668 @@
+{
+    "Ev ve Mutfak": {
+        "icon": "home-heart",
+        "Mutfak Aletleri": [
+            "Blenderlar",
+            "Tost Makineleri",
+            "Kahve Makineleri",
+            "Mikrodalgalar",
+            "Bulaşık Makineleri"
+        ],
+        "Tencere ve Fırın Gereçleri": [
+            "Tencereler",
+            "Tavalar",
+            "Fırın Tepsileri",
+            "Karıştırma Kaseleri",
+            "Ölçü Kapları"
+        ],
+        "Sofra Takımı": [
+            "Tabaklar",
+            "Kaseler",
+            "Bardaklar",
+            "Çatal Bıçak",
+            "Servis Tabağı"
+        ],
+        "Depolama ve Organizasyon": [
+            "Yemek Kapları",
+            "Kiler Düzenleyicileri",
+            "Baharat Rafları",
+            "Çekmece Bölücüler"
+        ],
+        "Küçük Mutfak Gereçleri": [
+            "Bıçaklar",
+            "Soyacaklar",
+            "Rendeler",
+            "Konserve Açacakları",
+            "Kesme Tahtaları"
+        ],
+        "Ev Temizliği": [
+            "Elektrikli Süpürgeler",
+            "Paspaslar",
+            "Temizlik Spreyleri",
+            "Bulaşık Deterjanı",
+            "Süngerler"
+        ]
+    },
+    "Ev ve Mobilya": {
+        "icon": "sofa",
+        "Oturma Odası Mobilyaları": [
+            "Sehpa",
+            "TV Üniteleri",
+            "Yatar Koltuklar",
+            "Kitaplıklar",
+            "Koltuklar"
+        ],
+        "Yatak Odası Mobilyaları": [
+            "Yataklar",
+            "Komodinler",
+            "Şifonyerler",
+            "Gardıroplar",
+            "Yataklar"
+        ],
+        "Ofis Mobilyası": [
+            "Masalar",
+            "Ofis Sandalyeleri",
+            "Dosya Dolapları",
+            "Kitaplık",
+            "Masa Lambaları"
+        ],
+        "Dış Mekân Mobilyası": [
+            "Bahçe Takımları",
+            "Şezlonglar",
+            "Dış Mekân Masaları",
+            "Şemsiyeler",
+            "Hamaklar"
+        ],
+        "Depolama Çözümleri": [
+            "Dolaplar",
+            "Ayakkabılık",
+            "Depolama Kutuları",
+            "Raflar",
+            "Kancalar"
+        ]
+    },
+    "Ev Dekorasyonu": {
+        "icon": "flower",
+        "Hediyelik ve El Sanatları": [
+            "Havai Fişekler",
+            "Dekoratif Stickerlar",
+            "Kauçuk Anahtarlıklar",
+            "Hediye Ürünleri",
+            "Reçine El Sanatları",
+            "Diğer Anahtarlıklar",
+            "Metal Anahtarlıklar",
+            "Hediye Setleri",
+            "Metal El İşleri",
+            "Kristal El İşleri",
+            "Bayraklar",
+            "Ahşap El Sanatları",
+            "Promosyon Hediyeleri",
+            "Kâğıt El İşleri"
+        ],
+        "Ev ve Bahçe": [
+            "Şemsiyeler",
+            "Yağmurluklar",
+            "Natürmort Tablolar",
+            "Çakmaklar",
+            "Diğer Tablolar",
+            "Yemek Takımları",
+            "Akıllı Ev Ürünleri",
+            "Araç Havluları",
+            "Yemek Kapları",
+            "Su Şişeleri",
+            "Kupalar",
+            "Tencere Setleri",
+            "Depolama Kutuları",
+            "Termoslar",
+            "Parti Ürünleri",
+            "Yiyecek Saklama Kapları"
+        ],
+        "İnşaat ve Gayrimenkul": [
+            "Duvar Kâğıdı Ruloları",
+            "Kontrplaklar",
+            "Duvar Panelleri",
+            "Prefabrik Evler",
+            "Kiremitler",
+            "Konteyner Evler",
+            "Diğer Levhalar",
+            "Banyo & Duş Bataryaları",
+            "Kendinden Yapışkanlı Duvar Kâğıdı",
+            "Akıllı Klozetler",
+            "Plastik Zemin",
+            "Diğer Kapılar",
+            "Diğer Duvar Panelleri",
+            "Fayanslar",
+            "Mutfak Evyeleri",
+            "Mutfak Dolapları"
+        ],
+        "Aydınlatma": [
+            "Gece Lambaları",
+            "LED Işık Zincirleri",
+            "LED Modüller",
+            "LED Tavan Vantilatörleri",
+            "Güneş Enerjili Bahçe Lambaları",
+            "Duvar Lambaları",
+            "Avizeler",
+            "Dimmerler",
+            "Neon Işıklar",
+            "Akıllı LED Şeritler",
+            "Sahne Işıkları",
+            "Güneş Enerjili Sokak Lambaları",
+            "Akıllı Ev Lambaları",
+            "El Fenerleri",
+            "Masa Lambaları",
+            "LED Ampuller"
+        ]
+    },
+    "Elektronik": {
+        "icon": "computer",
+        "Bilgisayar ve Aksesuarları": [
+            "Dizüstü Bilgisayarlar",
+            "Masaüstü Bilgisayarlar",
+            "Monitörler",
+            "Klavye",
+            "Fareler"
+        ],
+        "Mobil Cihazlar": [
+            "Akıllı Telefonlar",
+            "Şarj Aletleri",
+            "Telefon Kapakları",
+            "Tabletler",
+            "Akıllı Saatler"
+        ],
+        "Ev Eğlencesi": [
+            "Televizyonlar",
+            "Soundbarlar",
+            "Ev Sinema Sistemleri",
+            "Yayın Cihazları",
+            "Blu-ray Oynatıcılar"
+        ],
+        "Kamera ve Fotoğraf": [
+            "Kameralar",
+            "Tripodlar",
+            "Lensler",
+            "Hafıza Kartları",
+            "Dijital Kameralar"
+        ],
+        "Oyun": [
+            "Oyun Konsolları",
+            "Oyun Laptopları",
+            "Kontroller",
+            "VR Başlıkları",
+            "Oyun Koltukları"
+        ]
+    },
+    "Giyim ve Aksesuarlar": {
+        "icon": "shirt",
+        "Erkek Giyim": [
+            "Gömlekler",
+            "Pantolonlar",
+            "Ceketler",
+            "Takımlar",
+            "Tişörtler"
+        ],
+        "Kadın Giyim": [
+            "Elbiseler",
+            "Etekler",
+            "Bluzlar",
+            "Kotlar",
+            "Spor Giyim"
+        ],
+        "Çocuk Giyim": [
+            "Zıbınlar",
+            "Tişörtler",
+            "Pantolonlar",
+            "Elbiseler",
+            "Okul Kıyafetleri"
+        ],
+        "Ayakkabı": [
+            "Spor Ayakkabılar",
+            "Botlar",
+            "Sandaletler",
+            "Klasik Ayakkabılar",
+            "Terlikler"
+        ],
+        "Aksesuarlar": [
+            "Saatler",
+            "Kemerler",
+            "Şapkalar",
+            "Atkılar",
+            "Çantalar"
+        ]
+    },
+    "Sağlık ve Güzellik": {
+        "icon": "empathize",
+        "Cilt Bakımı": [
+            "Temizleyiciler",
+            "Nemlendiriciler",
+            "Serumlar",
+            "Güneş Kremleri",
+            "Yüz Maskeleri"
+        ],
+        "Saç Bakımı": [
+            "Şampuanlar",
+            "Saç Kremleri",
+            "Saç Bakım Ürünleri",
+            "Şekillendirme Aletleri",
+            "Saç Aksesuarları"
+        ],
+        "Makyaj": [
+            "Fondöten",
+            "Ruj",
+            "Far Paletleri",
+            "Maskaralar",
+            "Makyaj Fırçaları"
+        ],
+        "Sağlık ve Wellness": [
+            "Vitaminler",
+            "Takviyeler",
+            "Akıllı Bileklikler",
+            "Banyo Tartıları",
+            "Yoga Matları"
+        ],
+        "Kişisel Bakım": [
+            "Diş Fırçaları",
+            "Tıraş Makineleri",
+            "Deodorantlar",
+            "Sabunlar",
+            "Banyo Yağı"
+        ]
+    },
+    "Spor ve Açık Hava": {
+        "icon": "basketball",
+        "Fitness Ekipmanları": [
+            "Koşu Bantları",
+            "Dumbbelllar",
+            "Egzersiz Bisikletleri",
+            "Direnç Bantları",
+            "Yoga Matları"
+        ],
+        "Açık Hava Ekipmanları": [
+            "Çadırlar",
+            "Uyku Tulumları",
+            "Sırt Çantaları",
+            "Kamp Ocakları",
+            "Yürüyüş Botları"
+        ],
+        "Spor Kıyafetleri": [
+            "Koşu Ayakkabıları",
+            "Spor Sütyenleri",
+            "Şortlar",
+            "Formalar",
+            "Eşofman Takımları"
+        ],
+        "Takım Sporları": [
+            "Futbol Topları",
+            "Basketbol Topları",
+            "Tenis Raketleri",
+            "Beyzbol Eldivenleri",
+            "Hokey Sopaları"
+        ],
+        "Su Sporları": [
+            "Kayaklar",
+            "Paddleboardlar",
+            "Şnorkel Setleri",
+            "Mayo",
+            "Can Yelekleri"
+        ]
+    },
+    "Oyuncak ve Video Oyunları": {
+        "icon": "gamepad",
+        "Aksiyon Figürleri ve Bebekler": [
+            "Süper Kahraman Figürleri",
+            "Barbie Bebekler",
+            "Aksiyon Setleri",
+            "Oyuncak Evler",
+            "Peluş Oyuncaklar"
+        ],
+        "Eğitici Oyuncaklar": [
+            "Yapbozlar",
+            "Yapı Blokları",
+            "STEM Setleri",
+            "Öğrenme Tabletleri",
+            "Flash Kartlar"
+        ],
+        "Masa Oyunları ve Yapbozlar": [
+            "Satranç",
+            "Monopoly",
+            "Yapbozlar",
+            "Strateji Oyunları",
+            "Kart Oyunları"
+        ],
+        "Video Oyunları": [
+            "Konsol Oyunları",
+            "PC Oyunları",
+            "Oyun Abonelikleri",
+            "Oyun Aksesuarları",
+            "VR Oyunları"
+        ],
+        "Açık Hava Oyuncakları": [
+            "Trambolinler",
+            "Salıncak Setleri",
+            "Bisikletler",
+            "Su Tabancaları",
+            "Uçurtmalar"
+        ]
+    },
+    "Endüstriyel": {
+        "icon": "building-3",
+        "Endüstriyel Makineler": [
+            "Metal Kazıma Makineleri",
+            "Buz Makineleri",
+            "Tahıl Üretim Makineleri",
+            "Nakış Makineleri",
+            "Biçerdöverler",
+            "Yağ Presleri",
+            "Ağaç Kesme Makineleri",
+            "Lazer Parçaları",
+            "Ahşap CNC Routerlar",
+            "Enjeksiyon Makineleri",
+            "Mürekkep Püskürtmeli Yazıcılar",
+            "Traktörler",
+            "Atıştırmalık Makineleri",
+            "Dolum Makineleri",
+            "Dikiş Makineleri",
+            "Su Arıtma Makineleri"
+        ],
+        "Araçlar ve Ulaşım": [
+            "Arazili Motosikletler",
+            "Mini Motosikletler",
+            "Kullanılmış Arabalar",
+            "Yeni Enerji Araçları",
+            "Diğer Üç Tekerlekli Araçlar",
+            "Elektrikli Üç Tekerlekli",
+            "Elektrikli Motosikletler",
+            "Otobüsler",
+            "Cruiser Motosikletler",
+            "Cub Motosikletler",
+            "Yeni Arabalar",
+            "Diğer Motosikletler",
+            "Kullanılmış Motosikletler",
+            "Elektrikli Arabalar",
+            "ATV’ler",
+            "Konteynerler"
+        ],
+        "Ticari Hizmet Ekipmanı": [
+            "Etkileşimli Panolar",
+            "Ses Sistemleri",
+            "Soğutma Ekipmanları",
+            "Amplifikatörler ve Hoparlörler",
+            "Reklam Ekipmanları",
+            "Dijital Tabelalar",
+            "Mobil POS",
+            "POS Kasaları",
+            "Etiketleme Makineleri",
+            "Dondurma Makineleri",
+            "Sergi Rafları",
+            "Elektronik Tabelalar",
+            "Otel ve Restoran Ürünleri",
+            "Otomatlar",
+            "Yemek Kamyonları",
+            "Fotoğraf Kabinleri"
+        ],
+        "İmalat Hizmetleri": [
+            "Kalıplar",
+            "Talaşlı İmalat",
+            "Döküm Hizmetleri",
+            "Sac İşleme",
+            "Diğer İmalat Hizmetleri",
+            "Dövme Hizmetleri"
+        ],
+        "Yenilenebilir Enerji": [
+            "Güneş İnvertörleri",
+            "Ev Enerji Depolama",
+            "Lityum İyon Bataryalar",
+            "Rüzgar Jeneratörleri",
+            "Güneş Panelleri",
+            "Güneş Enerji Sistemleri",
+            "Kurşun Asit Bataryalar",
+            "Taşınabilir Güç İstasyonları",
+            "Güneş Buzdolapları",
+            "Güneş Klimaları",
+            "Güneş Su Pompaları",
+            "UPS Sistemleri",
+            "Diğer Bataryalar",
+            "Güneş Şarj Kontrolörleri",
+            "Batarya Aksesuarları",
+            "Güneş Fanları"
+        ],
+        "Alet ve Donanım": [
+            "Freze Kesiciler",
+            "Çekiçli Matkaplar",
+            "Matkaplar",
+            "Taşlama Makineleri",
+            "Torna Aletleri",
+            "Alet Setleri",
+            "Bıçaklar",
+            "Boya Püskürtme Tabancaları",
+            "Alet Parçaları",
+            "El Aletleri",
+            "Pompalar",
+            "Diğer Aletler",
+            "Çim Biçme Makineleri",
+            "Boru Bağlantı Parçaları",
+            "Aşındırıcı Aletler",
+            "Contalar"
+        ],
+        "Malzeme Taşıma": [
+            "Vinçler",
+            "Forkliftler",
+            "El Arabaları",
+            "Vakum Kaldırıcılar",
+            "Diğer Vinçler",
+            "Kaldırma Masaları",
+            "Vinç Mekanizmaları",
+            "El Arabaları",
+            "Yük İstifleyicileri",
+            "Manipulatorler",
+            "Raf Sistemleri",
+            "Ekipman Parçaları",
+            "Konveyörler",
+            "Malzeme Taşıma Ekipmanları",
+            "Depolama Ürünleri",
+            "Tekerlekler"
+        ],
+        "Güç Aktarımı": [
+            "Bilyalı Rulmanlar",
+            "Motor Kontrolcüleri",
+            "DC Motorlar",
+            "AC Motorlar",
+            "Stepper Motorlar",
+            "Rot Başlıkları",
+            "Aktarma Kayışları",
+            "Konik Rulmanlar",
+            "Yataklı Rulmanlar",
+            "Kardan Mafsalları",
+            "Hidrolik Pompalar",
+            "Hidrolik Parçalar",
+            "Hidrolik Vanalar",
+            "Redüktörler",
+            "Kasnaklar",
+            "Dişli Kutuları"
+        ],
+        "Elektrik Ekipmanları": [
+            "Uzaktan Kumandalı Anahtarlar",
+            "Benzinli Jeneratörler",
+            "İnvertörler",
+            "Duvar Anahtarları",
+            "Profesyonel Aydınlatma",
+            "Endüktif Anahtarlar",
+            "Enerji Sayaçları",
+            "Sigorta Kesiciler",
+            "Elektrik Kabloları",
+            "Anahtarlamalı Güç Kaynakları",
+            "Dizel Jeneratörler",
+            "Diğer Elektrik Ekipmanları",
+            "Prizler",
+            "PLC/PAC Kontrolörleri",
+            "Konnektörler",
+            "Gerilim Regülatörleri"
+        ],
+        "Araç Parçaları ve Aksesuarları": [
+            "Kamyon Lastikleri",
+            "LED Farlar",
+            "Tamponlar",
+            "Motosiklet Yakıt Sistemleri",
+            "Korna",
+            "Motosiklet Grenajları",
+            "Klima Sistemleri",
+            "Araç Işık Aksesuarları",
+            "Egzoz Sistemleri",
+            "LED Sis Farları",
+            "Diğer Araç Parçaları",
+            "Otomobil Jantları",
+            "Motor Parçaları",
+            "Gövde Parçaları",
+            "Motosiklet Gövde Sistemleri",
+            "Motor Bloğu"
+        ],
+        "İnşaat ve Yapı Makineleri": [
+            "İnşaat Makine Parçaları",
+            "Ekskavatörler",
+            "Kullanılmış Beton Pompaları",
+            "Kullanılmış Bulldozerler",
+            "Kullanılmış Yükleyiciler",
+            "Kapı/Pencere Üretim Makineleri",
+            "Enerji Tasarruf Ekipmanı",
+            "Silindirler",
+            "Greyderler",
+            "Kullanılmış Ekskavatörler",
+            "Yükleyiciler",
+            "Tuğla Yapma Makineleri",
+            "Maden Sondaj Makineleri",
+            "Maden Makine Parçaları",
+            "Diğer İnşaat Makineleri",
+            "Beton Mikserleri"
+        ],
+        "Elektronik Bileşenler ve Telekom": [
+            "Diğer Elektronik Bileşenler",
+            "Geliştirme Kartları",
+            "Telekomünikasyon Ürünleri",
+            "Elektronik Modüller",
+            "Güç Modülleri",
+            "Eğitim Kartları",
+            "Transistörler",
+            "LCD Modüller",
+            "PCBA",
+            "Diğer Entegre Devreler",
+            "Fiber Optik Ekipmanlar",
+            "İletişim Kabloları",
+            "Ağ Ürünleri",
+            "Yalıtım Malzemeleri",
+            "Diğer PCB/PCBA",
+            "Tekrarlayıcılar"
+        ],
+        "Araç Elektroniği ve Aletleri": [
+            "Araba DVD Oynatıcı",
+            "Diğer Araç Elektroniği",
+            "Araba Monitörleri",
+            "GPS Navigasyon",
+            "Araç Kara Kutuları",
+            "Teşhis Cihazları",
+            "Araba Yıkayıcılar",
+            "Subwooferlar",
+            "Direksiyonlar",
+            "Geri Görüş Sensörleri",
+            "İç Aksesuarlar",
+            "Dış Aksesuarlar",
+            "Araç Kokuları",
+            "Paspaslar",
+            "Cam Filmleri",
+            "Diğer Araç Aletleri"
+        ]
+    },
+    "Hammadde": {
+        "icon": "flask",
+        "Kimyasallar": [
+            "Hammaddeler",
+            "Pigment",
+            "Aroma ve Esans",
+            "Yapıştırıcılar ve Sızdırmazlık",
+            "Siyanür",
+            "Biyogaz",
+            "Hidrokarbonlar",
+            "Biyodizel",
+            "Kuvars Ürünleri",
+            "Herbisitler",
+            "Kaplama ve Boya",
+            "Organik Ara Ürünler",
+            "Kimyasal Yardımcılar",
+            "Günlük Kimyasallar",
+            "Yağlayıcılar",
+            "Polimerler",
+            "Karbon"
+        ],
+        "Metal ve Alaşımlar": [
+            "Çelik Hurda",
+            "Demir Hurda",
+            "Alüminyum Hurda",
+            "Bakır Hurda",
+            "Bakır Teller",
+            "Alüminyum Profiller",
+            "Manyetik Malzemeler",
+            "Diğer Metal Hurda",
+            "Alüminyum Külçeler",
+            "Bakır Katot",
+            "Eski Çelik Levhalar",
+            "Çelik Tel Örgü",
+            "Çelik Yapılar",
+            "Diğer Metal Ürünleri",
+            "Galvanizli Çelik Ürünleri",
+            "Alüminyum Levhalar"
+        ],
+        "Kauçuk ve Plastik": [
+            "Plastik Levhalar",
+            "Diğer Kauçuk Ürünleri",
+            "Geri Dönüştürülmüş Kauçuk",
+            "Geri Dönüştürülmüş Plastik",
+            "Neopren",
+            "Plastik Çubuklar",
+            "Plastik Ağlar",
+            "Silikon Kauçuk",
+            "HDPE",
+            "Tarımsal Plastik Ürünleri",
+            "Diğer Plastik Ürünleri",
+            "Kauçuk Hortumlar",
+            "Kauçuk Levhalar",
+            "Otomotiv Kauçuk",
+            "Kauçuk Kayışlar",
+            "PP"
+        ],
+        "Kumaş ve Tekstil": [
+            "Suni Deri",
+            "Astar Kumaşı",
+            "Spandex Kumaşı",
+            "100% Polyester Kumaş",
+            "Pamuk Kumaşı",
+            "100% Naylon Kumaş",
+            "Karma Kumaş",
+            "100% Akrilik Kumaş",
+            "Yün/Poliester Kumaş",
+            "Suni Kürk",
+            "Diğer Kumaşlar",
+            "Ev Dekor Kumaşları",
+            "Polyester/Pamuk Kumaş",
+            "Karma İplik",
+            "Nonwoven Kumaş",
+            "100% İpek Kumaş"
+        ],
+        "Tarım": [
+            "Mısır",
+            "Kahve Çekirdekleri",
+            "Pirinç",
+            "Su Ürünleri Ekipmanları",
+            "Buğday",
+            "Kakao Çekirdekleri",
+            "Mercimek",
+            "Taze Soğan",
+            "Soya Fasulyesi",
+            "Balık Tuzakları",
+            "Tarım Sera Sistemleri",
+            "Hayvan Yemleri",
+            "Diğer Tarım Ürünleri",
+            "Taze Sarımsak",
+            "Taze Mango",
+            "Bambu Hammaddesi"
+        ]
+    }
+}
